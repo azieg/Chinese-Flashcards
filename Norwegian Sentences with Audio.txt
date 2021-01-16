@@ -1,0 +1,1668 @@
+God morgen.	Good Morning		y
+God dag.	Good Day		y
+God kveld.	Good Evening		y
+God natt.	Good Night		y
+Ha det bra.	Goodbye		y
+Hei / Ha det	Hi / Bye		y
+Vær så snill	Please		y
+(Tusen) Takk	Thank you (very much)		y
+Ingen årsak	Don't mention it		y
+Vær så god	You're welcome		y
+Ja	Yes		y
+Nei	No		y
+Velkommen!	Welcome!		y
+Hvordan har du det?	How are you?		y
+Hvordan går det?	How it's going?		y
+Bra	Good		y
+Dårlig	Bad		y
+Hva heter du?	What's your name?		y
+Jeg heter Sverre	I am called Sverre		y
+Hyggelig å treffe deg!	Pleased to meet you!		y
+Hvor kommer du fra?	Where are you from?		y
+Jeg er fra Sveits	I am from Switzerland		y
+Unnskyld	Excuse me / Sorry		y
+Hvor bor du?	Where do you live?		y
+Jeg bor i Oslo	I live in Oslo		y
+Jeg vil gjerne ha en pils	I would like a beer		y
+Hvor gammel er du?	How old are you?		y
+Jeg er 27 år gammel.	I am 27 years old.		y
+Jeg vet ikke	I don`t know.		y
+Jeg vet	I know		y
+Snakker du norsk?	Do you speak Norwegian?		y
+Jeg snakker engelsk.	I speak English.		y
+Snakk langsomt	Speak slowly		y
+svensk	swedish		y
+Dansk	Danish		y
+fransk	French		y
+italiensk	Italian		y
+spansk	Spanish		y
+tysk	German		y
+holländsk	Dutch		y
+russisk	Russian		y
+japansk	Japanese		y
+Forstår du?	Do you understand?		y
+Jeg forstår ikke	I don't understand.		y
+Vær så snill å gjenta	Please repeat		y
+Vennligst gjenta	Please repeat		y
+Hva er dette?	What is this?		y
+Hvor er kyllingen?	Where is the chicken?		y
+Hvor mye koster dette?	How much does this cost?		y
+Jeg er sulten	I'm hungry		y
+Jeg er tørst	I'm thirsty		y
+Jeg er trett	I'm tired		y
+Jeg er syk	I'm sick		y
+Jeg tror det	I think so		y
+Jeg tror ikke det	I don't think so		y
+Ta plass	sit down!		y
+Stans!	Stop!		y
+Stopp!	Stop!		y
+Straks!	Immediately! / Soon!		y
+Jeg har gått meg bort	I'm lost		y
+Hjelp!	Help!		y
+Fare!	Danger!		y
+Pass på!	Watch out!		y
+Vent litt!	Wait a minute!		y
+Det var synd.	That's too bad!		y
+Velbekomme!	Have a good meal!		y
+Skål!	Cheers!		y
+Lykke til!	Good luck!		y
+Jeg elsker deg.	I love you.		y
+Jeg savner deg.	I miss you.		y
+jeg	I		y
+du	you (singular)		y
+han	he		y
+hun	she		y
+den	it (masc.)		y
+det	it (neut.)		y
+man (<--Norsk)	one (sub)		y
+vi	we		y
+dere	you (plural)		y
+de	they		y
+meg	me		y
+deg	you (obj)		y
+han (pronoun)	he		y
+henne (pronoun)	her (<--English)		y
+oss	us		y
+dem	them		y
+hvem	who		y
+hva	What		y
+hvorfor	Why		y
+når	When		y
+hvor	Where		y
+hvilken, hvilket, hvilke	Which		y
+hvordan	How		y
+hvor mye	How much		y
+hvor mange	How many		y
+hvor lenge	How long		y
+hvorfra	Where from		y
+hva slags	What kind of		y
+null	zero		y
+1	en, ett		y
+2	to (number)		y
+3	tre		y
+4	fire (<--Norsk)		y
+5	fem		y
+6	seks		y
+7	sju		y
+8	åtte		y
+9	ni		y
+10	ti		y
+11	elleve		y
+12	tolv		y
+13	tretten		y
+14	fjorten		y
+15	femten		y
+16	seksten		y
+17	sytten		y
+18	atten		y
+19	nitten		y
+20	tjue		y
+21	tjueen, tjueett		y
+22	tjueto		y
+30	tretti		y
+40	førti		y
+50	femti		y
+60	seksti		y
+70	sytti		y
+80	åtti		y
+90	nitti		y
+100	hundre		y
+1,000	tusen		y
+million	million		y
+billion (<--English)	milliard		y
+trillion (<--English)	billion (<--Norsk)		y
+1st	første		y
+2nd	annen, andre		y
+3rd	tredje		y
+4th	fjerde		y
+5th	femte		y
+6th	sjette		y
+7th	sjuende		y
+8th	åttende		y
+9th	niende		y
+10th	tiende		y
+11th	ellevte		y
+12th	tolvte		y
+13th	trettende		y
+14th	fjortende		y
+15th	femtende		y
+16th	sekstende		y
+17th	syttende		y
+18th	attende		y
+19th	nittende		y
+20th	tjuende		y
+21st	tjueførste		y
+22nd	tjueandre		y
+30th	trettiende		y
+40th	førtiende		y
+50th	femtiende		y
+60th	sekstiende		y
+70th	syttiende		y
+80th	åttiende		y
+90th	nittiende		y
+100th	hundrede		y
+1,000th	tusende		y
+Monday	mandag		y
+Tuesday	tirsdag		y
+Wednesday	onsdag		y
+Thursday	torsdag		y
+Friday	fredag		y
+Saturday	lørdag		y
+Sunday	søndag		y
+day	dag		y
+morning	morning		y
+afternoon	ettermiddag		y
+evening	kveld		y
+night	natt		y
+today	i dag		y
+tomorrow	i morgen		y
+this morning	i dag morges		y
+tomorrow morning	i morgen tidlig		y
+tomorrow afternoon	i morgen formiddag		y
+tomorrow night	i morgen kveld		y
+day after tomorrow	i overmorgen		y
+tonight	i kveld		y
+last night	i går kveld		y
+yesterday	i går		y
+day before yesterday	i forgårs		y
+week	uke		y
+next week	neste uke		y
+weekend	helg		y
+daily	daglig		y
+weekly	ukentlig		y
+January	januar		y
+February	februar		y
+March	mars (<--Norsk)		y
+April	april		y
+May	mai		y
+June	juni		y
+July	juli		y
+August	august		y
+September	september		y
+October	oktober		y
+November	november		y
+December	desember		y
+month	måned		y
+last month	forrige måned		y
+monthly	månedlig		y
+year	år (n)		y
+this year	i år		y
+last year	i fjor		y
+yearly	årlig		y
+Winter	vinter		y
+Spring	vår (<--Season)		y
+Summer	sommer		y
+Fall	høst		y
+in (the) winter	om vinteren		y
+in (the) spring	om våren		y
+in (the) summer	om sommeren		y
+in (the) fall	om høsten		y
+North	nord		y
+East	øst		y
+West	vest		y
+Northeast	nordøst		y
+Northwest	nordvest		y
+to the right	til høyre		y
+to the left	til venstre		y
+straight ahead	rett fram		y
+orange (<--Color)	oransje		y
+pink	rosa		y
+purple	lilla		y
+blue	blå, blått, blå		y
+yellow	gul, gult, gule		y
+red	rød, rødt, røde		y
+black	svart, svart, svarte		y
+brown	brun, brunt, brune		y
+gray	grå, grått, grå		y
+white	hvit, hvitt, hvite		y
+green	grønn, grønt, grønne		y
+Hvordan er været?	How's the weather?		y
+Det er kaldt	It's cold		y
+Det er varmt	It's warm		y
+Det er pent	It's beautiful		y
+Det er dårlig	It's bad		y
+Det lysner	It's clearing		y
+Det er isete	It's icy		y
+Det blåser	It's windy		y
+Det er overskyet	It's cloudy		y
+Det er fuktig	It's humid/muggy		y
+Hvor mange grader er det?	What temperature is it?		y
+Det er tåke	It's foggy		y
+Tåken letner	The fog is lifting		y
+Det snør	It's snowing		y
+Det regner	It's raining		y
+Det blir storm.	It's going to storm.		y
+Det tordner	There's thunder		y
+Det lyner	There's lightning		y
+Det er iskaldt	It's freezing (cold as ice)		y
+Det hagler	It's hailing		y
+foreldre	Parents		y
+mor	Mother		y
+far (<--Norsk)	Father		y
+sønn	Son		y
+datter	Daughter		y
+bror	Brother		y
+søster	Sister		y
+bestefar	Grandfather		y
+bestemor	Grandmother		y
+barnebarn	Grandson		y
+fetter	Cousin (male)		y
+kusine	Cousin (female)		y
+niese	Niece		y
+nevø	Nephew		y
+onkel	Uncle		y
+tante	Aunt		y
+gutt	Boy		y
+jente, pike	Girl		y
+barn	Child / Baby		y
+voksen	Adult		y
+mann	Man		y
+kvinne	Woman		y
+venn	Friend (male)		y
+venninne	Friend (female)		y
+Jeg har en hund	I have a dog		y
+Jeg liker melk	I like milk		y
+Liker du kake?	Do you like cake?		y
+Hvor er parken?	Where is the park?		y
+Koppen er her	The cup is here		y
+Parken er fin	The park is nice		y
+Jeg har eplet	I have the apple		y
+Katten drikker melk	The cat drinks milk		y
+Gutten løper etter hunden	The boy is running after the dog		y
+Jenta går tur med hunden	The girl is walking the dog		y
+Jeg liker hunder	I like dogs		y
+Jeg liker deg	I like you		y
+Du liker meg.	You like me.		y
+Liker du meg?	Do you like me?		y
+Bjorn er en katt	Bjorn is a cat		y
+Hannah liker katter mer enn hunder	Hannah likes cats more than dogs		y
+Billy liker ikke skolen	Billy doesn't like school		y
+Peter løper raskere enn Maria	Peter runs faster than Maria		y
+Halvor liker å gå på skolen, men han liker ikke hjemmelekser	Halvor likes to go to school, but he doesn't like homework		y
+Mary leser en bok	Mary is reading a book		y
+Peter leser en god bok	Peter is reading a good book		y
+Malin er attraktiv	Malin is attractive		y
+Bob syns Peter er irriterende	Bob thinks Peter is annoying		y
+Peter har en katt, og en hund	Peter has a cat, and a dog		y
+Eleven følger ikke med i timen	The student doesn't pay attention to class		y
+Jeg er nå ferdig	I am now finished		y
+Jeg er en mann	I am a man		y
+Hun er en dame	She is a woman		y
+Jeg var i butikken	I was in the shop		y
+Hun har vært president	She has been president		y
+Jeg blir gal	I'm being mad		y
+Å spise	To eat		y
+Å se	To see/look		y
+Å snakke	To talk		y
+Å tisse	To pee		y
+Å sitte	To sit		y
+Å gå	To walk		y
+Å løpe	To run		y
+Å kaste	To throw		y
+Å plante	To plant		y
+Å danse	To dance		y
+Hvor er toalettet?	Where is the toilet?		y
+Hvor er du, hvor er katten, hvor er bestemor?	Where are you, where is the cat, where is grandma?		y
+Hva betyr pytagoras?	What does Pythagoras mean?		y
+Hvem er du?	Who are you?		y
+Hvorfor liker du ikke melk?	Why don't you like milk?		y
+Når drar du?	When are you leaving?		y
+Hvor er du?	Where are you?		y
+Hvordan klarer noen og slikke albuen sin?	How can someone lick their elbow?		y
+Jeg skal gå og vaske klær og tøy	I will go to wash clothes and clothing		y
+Jeg liker å danse	I like to dance		y
+Jeg liker epler og bananer	I like apples and bananas.		y
+Jeg pleier å plukke sopp og bær, men jeg liker å plukke kantareller og jordbær mest	I (regularly) pick mushrooms and berries, but I like to pick chanterelles and strawberries the most.		y
+Hun hater å synge og danse	She hates to sing and dance.		y
+Jeg elsker deg	I love you		y
+De hører på henne	They listen to her		y
+Han spiser iskrem	He eats ice cream		y
+Hun liker han	She likes him		y
+De snakker med oss	They are talking with us		y
+Vil dere være med oss?	Do you (pl.) want to hang with us?		y
+Skal hun spise med dem?	Is she going to eat with them?		y
+By (<--Norsk)	City		y
+Skyskraper	Skyscraper		y
+Butikk	Store		y
+Kiosk	Kiosk		y
+Avis	Newspaper		y
+Vei	Road		y
+Bil	Car		y
+Gate	Street		y
+Hus	House		y
+Han kjører hjem	He drives home.		y
+Hun skriver veldig pent.	She writes very pretty.		y
+Sangeren synger høyt.	The singer sings loud.		y
+Sangeren synger ikke høyt.	The singer sings not loud.		y
+Han sov lenge	He slept long		y
+Klær	Clothes		y
+Bukse	Pants		y
+Genser	Sweater		y
+Undertøy	Underwear		y
+Hatt	Hat		y
+Sko	Shoes		y
+Hvilke klær liker du?	What clothing do you like?		y
+Jeg liker bukser.	I like pants		y
+Liker du buksene mine?	Do you like my pants?		y
+Ja, de er fine!	Yes, they are nice!		y
+TV	Television		y
+Teppe	Carpet		y
+Kjøleskap	Refrigerator		y
+Skap	Closet		y
+Lyspære	Light Bulb		y
+Blomst	Flower		y
+Piano	Piano		y
+Ei pen jente	A pretty girl		y
+En sterk gutt	A strong boy		y
+En vakker blomst	A beautiful flower		y
+En stygg dame	An ugly lady		y
+Et fantastisk menneske	A fantastic human being		y
+Vindu	Window		y
+Dør	Door		y
+Lampe	Lamp		y
+Ovn	Oven		y
+Stol	chair		y
+Klokke	Clock		y
+Toalett	Toilet		y
+Tallerken	Plate		y
+Kopp	Cup		y
+Maleri	Painting		y
+Vase	Vase		y
+faen	shit/fuck/damn		y
+gaffel	fork		y
+kniv	knife		y
+gitar	guitar		y
+bord	table		y
+Henrik vasker kjøleskapet	Henrik is cleaning the fridge		y
+Henrik har vasket kjøleskapet	Henrik has cleaned the fridge		y
+Jeg arbeider som laerer	I am working as a teacher.		y
+som	as a ~		y
+lærer	teacher		y
+fra	from		y
+vær	weather		y
+dyr	animal		y
+sammen	together		y
+Jeg snakker norsk.	I speak norwegian.		y
+Hun kommer fra Sveits.	She is from Switzerland.		y
+Han studerer biologi.	He studies biology.		y
+Dere snakker sammen.	You are speaking together.		y
+Hva gjør du?	What do you (do for) work?		y
+Jeg er student.	I am a student.		y
+Han studerer.	He is studying.		y
+Jeg spiser ikke nå.	I am not eating now.		y
+litt	a little		y
+å forstå	to understand		y
+språk	language		y
+men (<--Norsk)	but		y
+å kjøpe	to buy		y
+å selge	to sell		y
+å kjøre	to drive		y
+med	with		y
+Han spiser en bolle	He eats a breadroll		y
+Et barn kjøper brød	A child buys bread.		y
+Hun drikker brus og han drikker kaffe.	She drinks juice and he drinks coffee		y
+Han røyker en sigarett	He smokes a cigarette		y
+Blomsterpotte	flowerpot		y
+Au! Det gjør vondt!	Ow! That hurts!		y
+Jeg er 23 år.	I am 23 years old.		y
+han leser og drikker en kopp kaffe	he reads and drinks a cup of coffee		y
+Jeg har lært norsk i en måned.	I have been learning Norwegian for 1 month.		y
+Jeg må gå.	I have to go		y
+Kan du si det igjen?	Can You Say It Again?		y
+Kan du snakke sakte?	Can You Speak Slowly?		y
+Skriv det ned er du grei.	Write It Down Please!		y
+Hvordan sier man det på norsk?	How does one say that in Norwegian?		y
+Norsken min er dårlig.	My Norwegian is bad.		y
+Kan du hjelpe meg?	Can you help me?		y
+Kan jeg hjelpe deg?	Can I help you?		y
+Jeg er ikke herfra	I'm not from here		y
+Gå rett frem	Go straight		y
+gå til venstre	Turn left		y
+Gå til høyre	Turn right		y
+Det er i nærheten	It's near here		y
+Det er langt unna	It's far away.		y
+Kan jeg gå dit?	Is it within walking distance?		y
+Jeg har en reservasjon	I have a reservation (for a room)		y
+Har du noen ledige rom	Do you have rooms available?		y
+Hva vil det koste?	What will it cost?		y
+Jeg er vegetarianer	I'm vegetarian		y
+Jeg drikker ikke alkohol	I don't drink alcohol		y
+Hva heter denne retten?	What's the name of this dish?		y
+Kan jeg få regningen?	Can I have the check?		y
+Hva koster dette?	How much is this?		y
+Hva er klokken?	What time is it?		y
+Er du sprø?	Are you crazy?		y
+Kan du spise fisk?	can you eat fish?		y
+Hvor kan jeg kjøpe nye briller?	Where can I buy new glasses?		y
+Liker du pølse med brød?	Do you like sausage with bread?		y
+Nei, jeg liker ikke pølse med brød.	No, I don`t like sausage with bread.		y
+aviser	newspapers		y
+Takk for hjelpen!	Thanks for the help!		y
+Jeg har en bil.	I have a car.		y
+Bilen er min.	The car is mine.		y
+Du har ei bok.	You have a book.		y
+det er din bok	It is your book		y
+Jeg har et hus.	I have a house.		y
+Huset er mitt.	The house is mine.		y
+Du har to biler	You have two cars.		y
+Bilene er dine.	The cars are yours.		y
+Frokosten er snart ferdig.	Breakfast is almost done.		y
+Faren i familien steker egg og koker kakao.	The father of the family cooks eggs and boils cocoa.		y
+Moren skjærer brød.	The mother cuts bread.		y
+Det er to barn i familien, ei datter og en sønn.	There are two children in the family, a daughter and a son.		y
+Dattera heter Hanne.	The daughter is called Hanne.		y
+Hun dekker bordet.	She covers (sets) the table.		y
+Hun henter tre glass og tre kopper.	She takes three glasses and three cups.		y
+Koppene er i skapet, og glassene er i oppvaskmaskinen.	The cups are in the cupboard, and the glasses are in the washing machine.		y
+Broren til Hanne heter Jonas.	The brother of Hanne is called Jonas.		y
+Han er bare ett år og drikker melk av flaske.	He is just 1 year (old) and he drinks milk from a bottle.		y
+Grete er kona til Finn.	Grete is the wife of Finn.		y
+De har to barn, ei datter og en sønn.	They have two children, a daughter and a son.		y
+Dattera heter Hanne og sønnen heter Jonas.	The daughter is called Hanne and the son is called Jonas.		y
+Hanne vil ha to skiver brød til frokost.	Hanne will have two slices of bread for breakfast.		y
+Hun vil ha ei skive brød med syltetøy og ei skive brød med salami.	She will have a slice of bread with jam and a slice of bread with salami.		y
+Finn steker egg.	Finn cooks eggs.		y
+Hanne dekker på bordet.	Hanne covers (sets) the table.		y
+Hun trenger tre kopper og tre glass.	She needs three cups and three glasses.		y
+Kopper står i skapet, og glass står i oppvaskmaskinen.	Cups are stored in the cupboard, and the glasses are stored in the washing machine.		y
+Nå er eggene ferdig og de kan spise frokost.	Now the eggs are ready and they can eat breakfast.		y
+Finn og Kjersti snakker sammen	Finn and Kjersti talk together		y
+Dere ser på tv.	They watch tv.		y
+Du går på norskkurs.	You go to norwegian class.		y
+Han kommer fra Bolivia.	He comes from Bolivia.		y
+Hun bor i Bergen	She lives in Bergen		y
+Finn og Grete er hjemme.	Finn and Grete are home.		y
+hjemme	home		y
+Grete skriver et brev til en gammel venn.	Grete writes a letter to an old friend.		y
+brev	letter		y
+Hvem er det?	Who is that?		y
+gammel	old		y
+Er du sjalu?	Are you jealous?		y
+Hvor mye koster ei pølse med brød?	How much does sausage and bread cost?		y
+Jeg vil ha ei pølse med brød og to epler.	I will have a sausage with bread, and two apples.		y
+Det blir 52 kroner.	That is 52 kroner.		y
+Har du frimerker?	Do you have stamps?		y
+Jeg vil lese ei bok	I want to read a book.		y
+Vil du lese ei bok?	Will you read a book?		y
+Hun leser avisen hver dag.	She reads the newspaper everyday.		y
+Han vil spise et eple til frokost.	He will eat an apple for breakfast.		y
+Jeg liker ikke øl.	I don`t like beer.		y
+I dag vil jeg spise fisk.	Today I will eat fish.		y
+Vil du vaske kjøleskapet i dag?	Will you clean the fridge today?		y
+I går leste jeg en bok.	Yesterday I read a book.		y
+I går drakk han to øl.	Yesterday he drank 2 beers.		y
+I morgen vil jeg drikke kaffe med Finn.	Tomorrow I will drink coffee with Finn.		y
+Jeg er en god gitarspiller	I am a good guitarist		y
+Du spiller ikke piano bra.	You don't play the piano well.		y
+Når kan du møte meg?	When can you meet me?		y
+leste du avisen?	Did you read the newspaper?		y
+Jeg tror at epler er deilig.	I think that apples are delicious.		y
+Du tror at Jonas er dum	You think that Jonas is stupid.		y
+Grete er en veldig fin jente.	Grete is a really nice girl.		y
+Han har en fin bil.	He has a nice car		y
+Når vil du gå hjem?	What time will you go home?		y
+Når vil du snakke med han?	When will you talk with him?		y
+jeg kan ikke lese norsk	I cannot read Norwegian		y
+kan du ikke snakke norsk?	Can't you speak Norwegian?		y
+Jeg kan snakke japansk og engelsk, men jeg ønsker å studere norsk.	I can speak Japanese and English, but I wish to study Norwegian.		y
+Du snakker flytende norsk.	You speak fluent Norwegian.		y
+SAIH feirer femti år i oktober.	SAIH celebrates its 50th year in October		y
+Hun er sterk.	She is strong.		y
+Det er en fin dag.	It's a nice day.		y
+Jeg er lærer.	I am a teacher.		y
+Hun lurte på hvor Sam var og hva han holdt på med.	She wondered where Sam was and what he was doing.		y
+Det er varmt.	It is warm.		y
+For en heldig person han er!	What a lucky person he is!		y
+Møtet er i morgen.	The meeting is tomorrow.		y
+Vi er enige.	We agree.		y
+Jeg elsker spansk språket.	I like the Spanish language.		y
+Beklager, jeg har ikke noe igjen.	I'm sorry, I haven't any left.		y
+Ingen forstår meg.	Nobody understands me.		y
+Gud hjelper den som hjelper seg selv	God helps those who help themselves.		y
+Hvor mye er klokken? Klokken min går feil.	What's the time? My watch has gone wrong.		y
+Det er et godt spørsmål.	That's a good question.		y
+Jeg så han for tre år siden.	I saw him three years ago.		y
+Hei, hvordan står det til?	Hello, how are you?		y
+Fikk du ikke se musikalen?	Didn't you see the musical?		y
+Er det mulig å se Venus i natt?	Is it possible to see Venus tonight?		y
+Jeg har den samme ordboken som broren din.	I have the same dictionary as your brother has.		y
+Jeg skal gjøre leksene.	I will do the homework.		y
+Jeg har studert fransk i fire år.	I have studied French for four years.		y
+Hva er det du vil?	What is it that you want?		y
+Jeg jobber til og med på søndag.	I work even on Sunday.		y
+Har jeg ikke sett deg før?	Haven't I seen you before?		y
+Du trenger å trene mer.	You need to exercise more.		y
+Nyt ferien din.	Enjoy your vacation.		y
+Det er dyrt å bo i Japan.	It is expensive to live in Japan.		y
+De som var til stede var veldig glade for nyhetene.	Those who were present were very glad at the news.		y
+Fortell alltid sannheten.	Always tell the truth.		y
+Jeg vil alltid elske deg, uansett hva som skjer.	I'll always love you, no matter what happens.		y
+Ikke rør.	Hands off.		y
+Jeg ville vært fornøyd hvis du betalte meg med kontanter.	I'd be content if you paid me with cash.		y
+Hvor mange epler?	How many apples?		y
+Vi har to døtre og to sønner.	We have got two daughters and two sons.		y
+Du burde slutte å røyke.	You should quit smoking.		y
+Foretrekker du hvitvin eller rødvin?	Do you prefer white wine or red wine?		y
+Hvor langt er det fra her til Ueno?	How far is it from here to Ueno?		y
+Øynene mine klør.	My eyes are itchy.		y
+Alle drømmer er løgner.	All dreams are lies.		y
+Min feil!	My mistake!		y
+Jeg pleide å drømme om å bli en astronaut.	I used to dream about becoming an astronaut.		y
+Jeg hadde en veldig høy feber.	I had a very high fever.		y
+Ta et ark og skriv!	Take a paper and write!		y
+Han har en stor familie.	He has a big family.		y
+Røyking er helsefarlig.	Smoking is dangerous to health.		y
+Hold opp med å hvile albuene dine på bordet.	Stop resting your elbows on the table.		y
+Kan jeg komme inn?	Might I come in?		y
+Vi ønsker ytterligere informasjon.	We want further information.		y
+Dette er en hest.	This is a horse.		y
+Jeg vil dø med Bob.	I want to die with Bob.		y
+Han nevnte navnet ditt for meg.	He mentioned your name to me.		y
+Kan jeg prate med Bill?	Can I speak with Bill?		y
+Vi kan leke med språket.	We can play with the language.		y
+Konger har lange armer.	Kings have long arms.		y
+Når alle gruppemedlemmene er stille må noen bryte isen.	When all the group members are silent, somebody must break the ice.		y
+Noen ganger er Dick for sen til skolen.	Dick is sometimes late for school.		y
+Jeg vil gjerne ha to enveisbilletter fra A til B.	I'd like two one-way tickets from A to B.		y
+Selv om natto lukter fælt smaker det kjempegodt.	Although natto smells awful, it is delicious.		y
+Jeg kunne ikke gå ut på grunn av det dårlige været.	I couldn't go out because of the bad weather.		y
+Det kommer bare til å bety en uendelig debatt.	It will only mean an endless debate.		y
+Politiet arresterte en mistenkt i forbindelse med ranet.	The police arrested a suspect in connection with the robbery.		y
+Den kjolen passer henne utmerket.	That dress fits her perfectly.		y
+Jeg møter ham etter jeg kommer tilbake.	I will meet him after I get back.		y
+Seier og tap er ikke avgjort kun på størrelsen av hæren din.	Victory and defeat aren't solely decided by the size of your army.		y
+Jeg blir ikke med deg hvis du ikke sier hvor vi skal.	I won't go with you unless you tell me where we're going.		y
+Du kan ikke beskylde ham for å stjele hvis du ikke har bevis.	You can't accuse him of stealing if you don`t have proof.		y
+Det er noe mystisk ved ham.	There's something mysterious about him.		y
+Han har gjort det bedre enn sist gang.	He has done better than last time.		y
+Noen japanske college-studenter, som ofte er tilfellet med dem, studerer ikke veldig mye.	Some Japanese college students, as is often the case with them, don't study very much.		y
+De gikk rundt.	They walked around.		y
+Været er i ferd med å bli kjøligere.	The weather is about to become colder.		y
+Jeg beviste faktum på styrken av dataet.	I proved the fact on the strength of the data.		y
+Det er få bokhandeler i dette området.	There are few bookstores in this area.		y
+Denne byen har økt i befolkning år etter år.	This city has been increasing in population year after year.		y
+Hun er høfligheten selv.	She is politeness itself.		y
+En persisk katt sov under bordet.	A Persian cat was sleeping under the table.		y
+Det er utdanning som er nøkkelen til suksessen.	It is education that is key to the success.		y
+De beundrer henne dypt.	They admire her deeply.		y
+De hadde ikke kommet veldig langt da de møtte en gammel mann.	They had not gone very far when they met an old man.		y
+Irland er berømt for kniplinger.	Ireland is famous for lace.		y
+Historie er en gren av humaniora.	History is a branch of the humanities.		y
+De prøvde å svømme til sikkerhet.	They tried to swim to safety.		y
+Han gravde tålmodig etter fakta.	He was patiently digging for facts.		y
+Han nevnte det ikke.	He did not mention it.		y
+Jeg lot døren stå åpen.	I left the door open.		y
+Det kritikeren sier er alltid konsist og rett på poenget.	What the critic says is always concise and to the point.		y
+Jeg advarte ham om farene.	I warned him about the danger.		y
+Vi må sette oss.	We must sit down.		y
+Skolen skaffer telt til oss.	The school will provide tents for us.		y
+De forsøkte tre ganger.	They tried three times.		y
+Jeg foretrekker cola framfor kaffe.	I prefer cola over coffee.		y
+Det er beksvart.	It is pitch dark.		y
+På grunn av snøen har togtrafikken blitt avbrutt.	Because of the snow, the railroad traffic has been interrupted.		y
+Alle barna på skolen likte den nye læreren.	All the children in the school liked the new teacher.		y
+Mennesker har vanligvis to grunnønsker: å søke seg bort fra smerte og søke seg til nytelse.	Human beings usually have two basic desires: to get away from pain and to arrive at pleasure.		y
+Svaret mitt på problemet kom feil ut.	My answer to the problem came out wrong.		y
+Jeg etterlater alt til deg.	I'll leave everything to you.		y
+Du må innse at rikdom ikke varer for alltid.	You must realize that prosperity does not last forever.		y
+Hun kom til skolen tross snøstormen.	She came to school in spite of the snowstorm.		y
+Ikke vær frekk med meg, unge dame!	Don't get sassy with me young lady!		y
+Løsningen på problemet var nær.	The resolution to the problem was close at hand.		y
+Dette avsnittet er vagt.	This paragraph is vague.		y
+Før eller siden kommer han til å mestre fransk.	Sooner or later, he will master French.		y
+Han er god til å spille fotball.	He is good at soccer.		y
+Ingenting er enklere enn å finne feil ved andre.	Nothing is easier than finding fault with others.		y
+Synes du ikke det er frekt å gi folk et så kort svar?	Don't you think it's rude to give people such a curt reply like that?		y
+Denne nye Macintosh-datamaskinen setter motstanderene i skam.	This new Macintosh computer puts the competition to shame.		y
+Det er på dette punktet at meningene våre er forskjellige.	It is on this point that our opinions differ.		y
+Det tok meg tre dager å lese denne boken.	It took me three days to read this book.		y
+Liker du film?	Do you like movies?		y
+Han holdt et nag mot meg.	He bore a grudge against me.		y
+Uansett hva han sier, ikke stol på ham.	No matter what he says, don't trust him.		y
+Du må studere hardt og lære mye.	You must study hard and learn many things.		y
+Jeg fikk et brev skrevet på engelsk.	I received a letter written in English.		y
+La oss gi henne ansvaret for det.	Let's give her responsibility for that.		y
+Du er ikke lenger bare et barn.	You are no longer a mere child.		y
+Du burde røyke mindre.	You should smoke less.		y
+Hva har du gjort for å reparere bilen?	What have you done about fixing the car?		y
+Han ba meg om å ikke se bak meg.	He told me not to look behind.		y
+Han holdt pusten.	He held his breath.		y
+De er ute av kontroll.	They are out of hand.		y
+Vi adopterte en alternativ metode.	We adopted an alternative method.		y
+Jeg stoppet innom bokhandelen.	I dropped in at the bookstore.		y
+Navnet til mannen jeg møtte i går er herr Hill.	The name of the man I met yesterday is Mr Hill.		y
+Jeg liker å sove på en myk seng.	I like to sleep on a soft bed.		y
+Hopp ut av stekepannen og inn i ilden.	Jump out of the frying pan into the fire.		y
+Han er en lærer på skolen vår.	He is a teacher at our school.		y
+Det maleriet har begynt å vokse på meg.	That painting has started to grow on me.		y
+Hun har på den samme kjolen hun hadde på i går.	She is wearing the same dress that she had on yesterday.		y
+Det er ikke hans sted å fortelle meg hva jeg skal gjøre.	It's not his place to tell me what to do.		y
+Du kan ikke stole på henne fordi hun er for uansvarlig.	You cannot count on her because she's too irresponsible.		y
+Johnny flyttet til Spania for bare noen måneder siden, så han er ikke vant til å snakke spansk ennå.	Johnny moved to Spain just a few months ago, so he isn't used to speaking Spanish as yet.		y
+Jeg ble hjemme i hele går i stedet for å dra på jobb.	I stayed home all yesterday instead of going to work.		y
+Jeg låner deg noen av broren min sine bøker.	I'll lend you some of my brother's books.		y
+Ring meg klokka syv om morgenen.	Call me up at seven in the morning.		y
+Hun avslo tilbudet hans.	She refused his offer.		y
+Stolen er ødelagt. Du bør få noen til å reparere den.	The chair is broken. You'd better get someone to fix it.		y
+Faren min drar ikke til Tokyo i dag.	My father does not go to Tokyo today.		y
+Tilskuerene lo av komikerens vittighet.	The audience laughed at the comedian's wit.		y
+Vennligst vent et øyeblikk.	Please wait a moment.		y
+Han giftet seg med en skuespillerinne.	He married an actress.		y
+Han bor i et fattig distrikt i London.	He lives in a poor district of London.		y
+Lønnen hans gir ham mulighet til å leve komfortabelt.	His salary enables him to live in comfort.		y
+Selv om vi gjør dette blir det seksti år før det antarktiske ozonlaget er reparert.	Even if we do this, it will be another sixty years before the Antarctic ozone hole is repaired.		y
+Han forsøkte å forvise usikkerheten sin.	He tried to banish his anxiety.		y
+I går kveld begynte jeg å døse av foran TVen.	Last night I began to nod off in front of the TV.		y
+Han lurer andre med utseendet sitt.	He deceives others with his appearance.		y
+Halvparten av klassen sier at de drikker kaffe.	Half the class say that they drink coffee.		y
+Hun er eldre enn meg med tre år.	She is senior to me by three years.		y
+Vi bor i et hus.	We live in a house.		y
+Har du sightseeing-turer i denne byen?	Do you have any sightseeing tours of this town?		y
+Jeg kjenner noen veldig respektable mennesker i byen.	I know some very respectable people in the town.		y
+Han småsov hele tiden.	He dozed all the while.		y
+Alt strevet deres var til gjeves.	All their efforts were in vain.		y
+Han er ikke så ærlig i det hele tatt.	He is not that honest at all.		y
+Dro du ut i går kveld?	Did you go out last night?		y
+Det var en stor flokk der.	There was a large crowd there.		y
+Vi er i samme klasse.	We are in the same class.		y
+Drømmen min har blitt virkelighet.	My dream has become reality.		y
+Læreren blir sett opp til av elevene.	The teacher is looked up to by the pupils.		y
+Han bor i en leilighet for tiden.	He is living in an apartment at present.		y
+Tror du virkelig vi får det?	Do you really think we'll get it?		y
+Jeg må innrømme at teorien min ikke dekker for det faktum.	I must confess that my theory doesn't account for that fact.		y
+Jeg skulle ønske jeg kunne komme på noe å si.	I wish I could think of something to say.		y
+Dette vannet er et av de dypeste i landet.	This lake is among the deepest in the country.		y
+Læreren vår kommer til skolen med bil.	Our teacher comes to school by car.		y
+Jeg lå i sengen hele dagen i går.	I lay in bed all day long yesterday.		y
+Hun ga barna to epler hver.	She gave the children two apples each.		y
+Hva sier du til å avslutte?	How about calling it a day?		y
+Det var en ungfugl der.	There was a fledgling bird there.		y
+Det er en annen grunn, er det ikke? Vel, hvordan klarte jeg meg? Jeg vedder på at jeg traff blink.	There's another reason, isn't there? Well, how did I do? I bet I hit the mark.		y
+Han kastet eplet til meg.	He threw the apple to me.		y
+Hvem fant opp radioen?	Who is the inventor of the radio?		y
+Skal du sende dette med pakkepost?	Are you going to send this by parcel post?		y
+Sjåføren er ansvarlig for passasjerenes sikkerhet.	The driver is responsible for the safety of the passengers.		y
+Må jeg skrive med blekk?	Must I write in ink?		y
+Hun har solbriller.	She has sunglasses.		y
+Er det noen sjanse for å låne skrivemaskinen din?	Is there any chance of my borrowing your typewriter?		y
+Du trenger ikke å kjøpe vann, trenger du?	You don't have to buy water, do you?		y
+Han kjente i lomma etter lighteren.	He felt in his pocket for his lighter.		y
+La ham komme inn.	Let him enter.		y
+Jeg utsetter turen min til Skottland til det blir varmere.	I am postponing my trip to Scotland until it is warmer.		y
+Ja faktisk, dvergkasting er en olympisk gren!	Indeed, dwarf tossing is an Olympian sport!		y
+Han er alltid bekymret for datteren sin.	He is always worrying about his daughter.		y
+En stor sten reiste seg fra havet.	A big rock rose out of the sea.		y
+Han bevitnet mordet.	He witnessed the murder.		y
+Han takket meg for at jeg kom.	He thanked me for coming.		y
+Kaffen var så varm at jeg nesten brant tungen min.	The coffee was so hot that I nearly burned my tongue.		y
+Det er jenta som jeg kjenner godt.	That is the girl whom I know well.		y
+Kan jeg bruke telefonen din?	Might I use your phone?		y
+Vil du ha mer informasjon om aktivitetene våre? Abonner på nyhetsbrevet vårt.	Do you want more information about our activities? Subscribe to our newsletter.		y
+Den ulogiske samtalen fortsatte.	The irrational conversation continued.		y
+I et ord: livet er kort.	In a word, life is short.		y
+Kan du snakke høyere? Jeg hørte deg ikke.	Can you talk louder? I didn't hear you.		y
+Kona mi vil at jeg skal bli kvitt denne fine gamle hatten.	My wife wants me to do away with this nice old hat.		y
+Ikke av plikt til min mor.	Not out of duty to my mother.		y
+Jeg er stolt over å jobbe med dette prosjektet.	I'm proud to be working on this project.		y
+Du kan spørre barnet som leker der borte.	You can ask the child that is playing over there.		y
+Er du et medlem av denne society-en?	Are you a member of this society?		y
+Bob og Mary spiller blokkfløyte.	Bob and Mary play the recorder.		y
+Han tok ut en kniv og prøvde å åpne boksen.	He took out a knife and tried to open the can.		y
+Så langt har vi nytt turen vår veldig mye.	So far we have enjoyed our journey very much.		y
+Den forelesningen stimulerte meg virkelig.	That lecture really stimulated me.		y
+Det er nok for nå.	That will be enough for now.		y
+Å mestre et fremmed språk krever tålmodighet.	Mastering a foreign language calls for patience.		y
+Vi nøt å se kampen.	We enjoyed watching the game.		y
+Jeg skammer meg over sønnen min sin latskap.	I am ashamed of my son's laziness.		y
+Jeg vil gjerne ha et vindussete, takk.	I'd like a window seat, please.		y
+Fangen er stille i cellen i dag.	The prisoner is being quiet in the cell today.		y
+Vannet fra kranen din er for hardt. Skaff en vannmykener.	The water from your faucet is too hard. Get a water softener.		y
+Var det noen glass på bordet?	Were there any glasses on the table?		y
+Sannheten kom endelig ut ved rettssaken hans.	The truth finally came out at his trial.		y
+Han fortsatte å lyve.	He kept on telling lies.		y
+Unnskyld meg, men kan du si meg veien til stasjonen?	Excuse me, but could you tell me the way to the station?		y
+Huset mitt er nær Tokyo-tårnet.	My house is near Tokyo Tower.		y
+Det samme som vanlig.	The same as usual.		y
+Vi valgte ut tallet tilfeldig.	We picked the number at random.		y
+En fremmed kom og spurte meg om veien til museet.	A stranger came up and asked me the way to the museum.		y
+Jeg er sikker på at de består eksamen.	I am sure of their passing the examination.		y
+La oss sette vår i kontrast til høst.	Let's contrast spring with fall.		y
+Regjeringen er desperat etter å holde nede inflasjonen.	The government is desperate to keep inflation down.		y
+Vær en engel og skru ned radioen.	Be an angel and turn the radio down.		y
+Du må gi tre måneders leie som depositum.	You have to give three months' rent as a deposit.		y
+Hvor lenge tror du vi var borte?	How long do you think we were away?		y
+Dette problemet er for enkelt, så det er nesten ikke verdt å diskutere.	This problem is too simple, so it is hardly worth discussing.		y
+Dette hotellet har et treningsstudio og et badebasseng.	This hotel has a gym and a swimming pool.		y
+Han liker å jakte.	He likes hunting.		y
+Det er mange skip i havnen.	There are many ships in the harbor.		y
+Det er sinnsykt av deg å sette livet ditt i fare.	It is crazy of you to put your life in danger.		y
+Jeg vedder på at Dave betalte ganske mye for den nye bilen sin.	I bet Dave paid quite a lot for his new car.		y
+Dette problemet kom fra en gjensidig misforståelse.	This problem came from the mutual misunderstanding.		y
+Jim skal snart ta en reise til sørøst-Asia.	Jim is about to take a trip to southeast Asia.		y
+Hun kunne synge pent da hun var et barn.	She could sing well when she was a child.		y
+Når du er atten år gammel er du voksen i Canada	When you're eighteen years old, you're an adult in Canada.		y
+Jeg er nesten ferdig.	I'm almost done.		y
+Det er veldig vanskelig å komme overens med ham.	It's very hard to get along with him.		y
+Jeg våget å støtte meningen hans.	I dared to support his opinion.		y
+En kniv mangler.	A knife is missing.		y
+De har pause for øyeblikket.	They're having a break at the moment.		y
+Alle borgere har retten til helse og et liv som møter de kulturelle minimumsstandardene.	Every citizen has the right to health and to a life that meets the minimum cultural standards.		y
+Du bør ikke prate med munnen full ved bordet.	You shouldn't speak with your mouth full at table.		y
+Det kommer til å være et problem.	There'll be a problem.		y
+En fløyte lød, og båten begynte sakte å forlate havnen.	A whistle blew, and the boat slowly began to pull out of port.		y
+Han kom til skolen akkurat tidsnok.	He got to school just in time.		y
+Han døde da han var 70 år.	He died at the age of 70.		y
+Jeg ser ham ofte.	I often see him.		y
+Min datter har tannregulering.	My daughter has braces.		y
+Jeg så en rar kvinne der.	I saw a strange woman there.		y
+Flyet skal lande om en time.	The plane will land in an hour.		y
+Det ser ut til at vi har gått oss bort.	It looks like we've gotten ourselves lost.		y
+Du hadde ikke trengt å komme så tidlig.	You did not need to come so early.		y
+Ikke gå så fort. Jeg greier ikke å holde følge med deg.	Don't walk so fast. I can't manage keeping up with you.		y
+Jeg er ikke vant til å stå opp så tidlig.	I'm not accustomed to getting up so early.		y
+Ulykken skapte kaos i trafikken.	The accident caused chaos in traffic.		y
+Dette kjøttet lukter dårlig.	This meat smells bad.		y
+Han hadde lært seg engelsk før han dro til England.	He had learned English before he went to England.		y
+Alt hun gjør er å pirke på naboene.	All she does is point fingers at the neighbours.		y
+Det er unormalt å spise så mye.	It is abnormal to eat so much.		y
+Jeg har ingen penger med meg.	I have no money with me.		y
+La oss se på tv.	Let's watch TV.		y
+Snakker dere engelsk?	Do you speak English?		y
+Jeg er arbeidsløs.	I'm unemployed.		y
+La oss sitte på benken.	Let's sit on the bench.		y
+Millioner av mennesker forstår interlingua ved første øyenkast.	Millions of people understand Interlingua within a single glance.		y
+Interlingua er et moderne redskap for internasjonal kommunikasjon.	Interlingua is a modern tool for international communication.		y
+Jeg måtte bli i senga hele dagen.	I had to stay in bed all day.		y
+Jeg vet ikke hva klokka er.	I don't know what the time is.		y
+Han tok sin blyant og ga seg til å skrive.	He took his pencil and started to write.		y
+Han er større enn alle andre gutter.	He is bigger than all the other boys.		y
+Jeg har det bra.	I'm doing well.		y
+Hun er trettien.	She's thirty-one.		y
+Tell fra en til ti.	Count from one to ten.		y
+Ken fyller 15 neste år.	Ken turns 15 next year.		y
+Hvem skrev Hamlet?	Who wrote Hamlet?		y
+Han viste seg ikke på festen i går kveld.	He didn't show up at the party yesterday evening.		y
+Han sa ikke et ord.	He didn't say a word.		y
+Dere må lære av feilene deres.	You must learn from your mistakes.		y
+Hunden vår graver ned beinene sine i hagen.	Our dog buries its bones in the garden.		y
+Dette er mitt favorittprosjekt.	This is my favourite project.		y
+Broren min spiller gitar.	My brother plays guitar.		y
+Kan du komme på festen?	Can you come to the party?		y
+Han skrev et brev i går.	He wrote a letter yesterday.		y
+Han reiste til London i 1970.	He traveled to London in 1970.		y
+Tennis er veldig populært blant studenter.	Tennis is very popular amongst students.		y
+Jeg kan lese uten briller.	I can read without glasses.		y
+Hvordan har din kone det?	How's your wife doing?		y
+Jeg har invitert alle vennene mine.	I've invited all my friends.		y
+Toget har ikke kommet ennå.	The train hasn't come yet.		y
+Kina er mye større enn Japan.	China is much bigger than Japan.		y
+Broren min bruker denne sykkelen.	My brother uses that bike.		y
+Jeg trenger et frimerke.	I need a stamp.		y
+Hva heter denne gata?	What's this street called?		y
+Han spurte min mor.	He asked my mother.		y
+Jeg trenger litt sukker.	I need some sugar.		y
+Jeg studerer utenlands.	I study abroad.		y
+Hvem har skrevet dette brevet?	Who has written this letter?		y
+Har du et bord ved vinduet?	Do you have a table near the window?		y
+Hun bor alene i en leilighet.	She lives in an apartment alone.		y
+Snakker du kinesisk?	Do you speak Chinese?		y
+Vi sto ansikt til ansikt.	We stood face to face.		y
+Jeg likte å svømme i elva.	I liked swimming in the river.		y
+Japansk har noe til felles med koreansk.	Japanese has something in common with Korean.		y
+Ro i takt, alle sammen!	Everybody row together!		y
+Kan jeg få låne ordboken din?	May I borrow your dictionary?		y
+Jeg svømmer en gang i uken.	I swim once a week.		y
+Moren min hater å skrive brev.	My mother hates writing letters.		y
+Ikke gå inn der, det er en blindvei.	Don't go in there, it's a dead-end street.		y
+To vaniljeis, takk.	Two vanilla ice creams, please.		y
+Når jeg ser dette fotografiet minnes jeg alltid av mine lykkelige dager på landet.	When I see this photograph, I am always reminded of my happy days in the countryside.		y
+Jeg har gått og tenkt på det i hele dag.	I've been thinking about it the entire day.		y
+Jeg hardkokte et egg.	I hard-boiled an egg.		y
+Italiensk er morsmålet mitt.	Italian is my mother tongue.		y
+Jeg lurer på hvilket språk de snakker i Brasil.	I wonder what language they speak in Brazil.		y
+Hun blir dårlig bare ved synet av en slange.	Just the mere sight of a snake makes her sick./ She becomes sick just with the sight of a snake.		y
+Det føles som om jeg har våknet fra et mareritt.	It feels as if I've woken up from a nightmare.		y
+De satt i sofaen i stua vår.	They were sitting on the sofa in our living room.		y
+Han ligger på sofaen.	He is lying on the sofa.		y
+Er katten på stolen eller under stolen?	Is the cat on the chair or under the chair?		y
+Island hørte til Danmark.	Iceland belonged to Denmark.		y
+Han bodde i London da krigen brøt ut.	He was living in London when the war broke out.		y
+Jeg bor i gå avstand til skolen.	I live within walking distance of school.		y
+Det lever ikke lenger fisk i denne elven.	There aren't any fish living in this river anymore.		y
+Jeg bor i en by, men foreldrene mine bor på landet.	I live in a town, but my parents live in the country.		y
+En setning har vanligvis et subjekt og et verb.	A sentence normally has a subject and a verb.		y
+Oversett denne setningen til engelsk.	Translate this sentence into English.		y
+Kan du hjelpe meg å oversette disse setningene til kinesisk?	Can you help me to translate these sentences into Chinese?		y
+Allen ble gitt et problem som var umulig å løse.	Allen was given a problem that was impossible to solve.		y
+Allen ble gitt et uløselig problem.	Allen was given an unsolvable problem.		y
+Hun gav faren sin et slips.	She gave her father a tie.		y
+Det er sterk vind i dag.	There is a strong wind today.		y
+Jeg vet ikke om jeg får tid.	I don't know if I'll have time.		y
+Krig er en forbrytelse mot menneskeheten.	War is a crime against humanity.		y
+Han venter nok på henne.	He's still waiting on her.		y
+For en fantastisk familie!	What a fantastic family!		y
+Føler noen seg dårlig?	Does somebody feel unwell?		y
+Han har enda ikke lest boken.	He hasn't read the book yet.		y
+Gull er mye tyngre enn vann.	Gold is much heavier than water.		y
+Jeg kjøpte meg denne superraske popkornmaskinen i julepresang.	I bought this really quick popcorn machine as a Christmas present.		y
+Han vil bli en tennisspiller.	He wants to be a tennis player.		y
+Jeg synes du har blitt mye bedre i engelsk.	I think your English has improved a lot./ I think you have become a lot better in English.		y
+Bestefaren min ble drept under andre verdenskrig.	My grandfather was killed in World War II.		y
+Jeg pusser tennene to ganger om dagen.	I brush my teeth twice a day.		y
+Å stå opp klokka seks er greit for meg.	Getting up at six o'clock is okay for me.		y
+Jeg solgte den for ti dollar.	I sold it for ten dollars.		y
+Telefonen var stille.	The telephone was silent.		y
+Hun elsket ham fremdeles.	She still loved him.		y
+Du sover virkelig mye!	You really sleep a lot!		y
+Mary har allerede dratt.	Mary has already left.		y
+Mary har allerede begynt.	Mary has already started.		y
+Ikke så verst. Men jeg er litt sliten.	Not so bad. But I'm a little tired.		y
+Hun har nesten ingen nære venner.	She has nearly no close friends.		y
+Ikke forstyrr meg mens jeg studerer.	Don't disturb me while I am studying.		y
+Han tenker kun på seg selv.	He only thinks about himself.		y
+Ken har flere bøker enn deg.	Ken has more books than you.		y
+Hjelp meg å velge et slips som passer til denne dressen.	Help me pick out a tie to go with this suit.		y
+Hvordan sprer denne sykdommen seg?	How does this disease spread?		y
+Øya ligger vest for Japan.	The island lies to the west of Japan.		y
+På grensen ble jeg bedt om å vise pass.	At the border, I was asked to show my passport.		y
+Jobben hans har med trykking å gjøre.	His job has to do with printing.		y
+Antall mennesker med diabetes øker over hele verden.	The number of people with diabetes is rising globally.		y
+Kan jeg få se førerkortet ditt?	Can I see your driving license?		y
+Hvis jeg ikke stryker kan jeg ta lappen i år.	If I don't fail, then I can get my driving license this year.		y
+Vet du hvordan man starter et bål med bare trepinner?	Do you know how to start a fire using just sticks of wood?		y
+Det ser ut til at han kommer hit neste måned.	It looks like he'll be coming here next month.		y
+Nick skylder meg ti dollar.	Nick owes me ten dollars.		y
+Denne ordboken har tolv bind.	This dictionary has 12 volumes.		y
+De sårede ble fraktet med sykebil.	The injured were transported by ambulance.		y
+Hun bruker mye penger på klær.	She spends lots of money on clothes.		y
+Jeg husker ikke nøyaktig.	I don't remember exactly.		y
+Neste uke kommer elektrikeren og reparerer strømledningen.	Next week the electrician is coming to fix the wires.		y
+Hun tok frem sjampanjeflasken som hun hadde spart til en spesiell anledning.	She got out the bottle of champagne she'd been saving for a special occasion.		y
+Sammenlignet med tigre er bjørner snille dyr.	Compared with tigers, bears are nice animals.		y
+Du må gjøre det, enten du vil eller ikke.	You have to do it, whether you like it or not.		y
+Har du hørt om brannen i går?	Have you hear about the fire yesterday?		y
+Jeg ville heller hatt en katt enn en hund.	I would rather have a cat than a dog.		y
+Du pønsker på noe.	You're up to something.		y
+John skriver til foreldrene sine en gang i måneden.	John writes to his parents once a month.		y
+Bob har vært forlovet med Mary i over et år.	Bob has been engaged to Mary for over a year.		y
+Hvem sitt rom er dette?	Whose room is this?		y
+Jeg går og handler mat hver morgen.	I go grocery shopping every morning.		y
+Du er ansvarlig for det du har gjort.	You are responsible for what you have done.		y
+Jeg har fri i dag.	I've got the day off today.		y
+Jeg har aldri før sett en så stor vannmelon.	I have never seen such a big watermelon before.		y
+Det vil gjøre skade på kornet.	It would damage the corn.		y
+Dette dårlige været vil nok påvirke avlingene.	This bad weather will certainly effect the crops.		y
+Disse åkrene gir avlinger med god kvalitet.	These fields produce good quality crops.		y
+Ønsket ditt vil gå i oppfyllelse i nær framtid.	Your wish will come true (be fulfilled) in the near future.		y
+Jeg var ikke med på samtalen.	I wasn't following the conversation.		y
+Her går alle på ski.	Everyone skis here.		y
+Han grov et hull i hagen.	He dug a hole in the garden.		y
+Er det vanskelig å spise med spisepinner?	Is it difficult eating with chopsticks?		y
+Han oppdaget en ny stjerne.	He discovered a new star.		y
+Han er fortsatt på arbeid.	He's still at work.		y
+De kommer og henter inn posten klokken tre hver ettermiddag.	They come to collect the post at three o'clock, every afternoon.		y
+Hvis jeg lager en eksempelsetning, kan du rette den for meg?	If I make an example sentence, can you correct it for me?		y
+Når står du vanligvis opp?	When do you usually get up?		y
+Regnet varte i tre dager.	The rain lasted for three days.		y
+Han så en sommerfugl på veggen.	He saw a butterfly on the wall.		y
+Han er ikke grei mot henne.	He is not kind to her.		y
+De færreste elefanter ville flyttet frivillig til Europa.	Few elephants would volunteer to move to Europe.		y
+Gutten var mett.	The boy was full.		y
+Den lille jenta snublet opp trappa.	The little girl stumbled up the stairs.		y
+Orddelingsfeil er et stort problem i Norge.	Writing two separate words when it should be written as one is a big problem in Norway.		y
+Jeg nekter å ta betalt.	I refuse to be paid.		y
+Værmeldingen tok grunding feil.	The weather report was thoroughly wrong.		y
+Da jeg var liten fikk jeg mye gratis.	When I was young I got lots of things for free.		y
+Jeg har ikke brede hofter.	I don't have wide hips.		y
+Slottet står ved en vakker innsjø.	The castle stands facing a beautiful lake.		y
+Det var en jevn økning av innbyggere.	There was a steady increase in population.		y
+Jeg traff en gammel venn på gata.	I ran across an old friend in the street.		y
+Kan du ikke være litt mer fleksibel med reglene?	Can't you be a little more flexible with the rules?		y
+Hun kjøpte ordboka, òg.	She bought the dictionary, too.		y
+Du har aldri tid til viktige ting!	You never have time for important things!		y
+Du burde starte så tidlig som mulig.	You should start as early as possible.		y
+Slutt å bite neglene dine.	Stop biting your nails.		y
+Tyver brøt seg inn i huset hans.	Burglars broke into his house.		y
+Jeg tar feil på mer enn halvparten av spørsmålene.	I am wrong about more than half the questions.		y
+Jeg har ikke sett ham på lenge.	I've not seen him in a long time.		y
+Den er snart klar.	It will be ready soon.		y
+Han løy til meg.	He lied to me.		y
+Han lovet meg å komme tidlig.	He promised me he would come early.		y
+De kan produsere de samme varene mye billigere.	They can produce the same products much more cheaply.		y
+Denne saksa klipper bra.	These scissors cut well.		y
+Vi vet at hun ble født i Canada.	We know that she was born in Canada.		y
+Fort deg!	Hurry up!		y
+Drinkene ble servert i kokosnøttskall.	The drinks were served in coconut shells.		y
+La meg tenke på det i et par dager.	Let me think it over for a couple of days.		y
+Vi giftet oss for syv år siden.	We married seven years ago.		y
+Vi så et glimt av slottet fra vinduet vårt i toget.	We caught a glimpse of the castle from the window of our train.		y
+Faren min er opptatt akkurat nå.	My father is busy right now.		y
+Ikke regn med at han låner deg penger.	Don't count on him to lend you any money.		y
+Falt maten i smak?	Did you like the meal?		y
+Likte du måltidet?	Did you like the meal?		y
+Jeg er fortsatt singel.	I'm still single.		y
+Han nektet for det øyeblikkelig.	He instantly denied it.		y
+Vi kjappet oss, så vi ikke gikk glipp av den siste bussen.	We hurried, so we didn't miss the last bus.		y
+Vi må bli kvitt vold.	We must do away with violence.		y
+Hun ble oppdratt av tanta si.	She was brought up by her aunt.		y
+Jeg orker ikke dette bråket lenger.	I can't stand this noise any longer.		y
+Noen la igjen en brennende sigarett på bordet.	Someone left a burning cigarette on the table.		y
+Du burde unngå å ringe noen etter kl. ti på kvelden.	You should avoid calling a person after ten at night.		y
+Vi ble stilt på rekke.	We were made to stand in line.		y
+Vi flytter inn i det nye huset vårt neste måned, om det er ferdig innen da.	We move into our new house next month if it is completed by then.		y
+Dette er et forferdelig klima.	This is a terrible climate.		y
+Premier deles ut ved slutten av konkurransen.	Prizes will be awarded at the end of the contest.		y
+Jeg blir fylt meg glede hver gang jeg ser deg.	I'm filled with joy every time I see you.		y
+For å gjøre en lang historie kort, vi la ned stridsøksa.	To make a long story short, we buried the hatchet.		y
+Jeg fortalte ham hva han skulle gjøre.	I told him what he should do.		y
+Kan du tvinge deg selv til å sove?	Can you will yourself to fall asleep?		y
+Hver dag føler jeg meg bedre og bedre.	Every day I feel better and better.		y
+Skuespillet er i tre akter.	The play is in three acts.		y
+Ikke spark hunden!	Don't kick the dog!		y
+En sky passerte forbi månen.	A cloud passed across the moon.		y
+Ikke mindre enn hundre folk var tilstede på møtet.	No less than 100 people attended the meeting.		y
+Jeg har lyst til å gå en tur nå.	I feel like taking a walk now.		y
+Spis mer friske grønnsaker.	Eat more fresh vegetables.		y
+Det var et øyeblikks pause i samtalen.	There was a momentary pause in the talk.		y
+Jeg ville ikke gått dit hvis jeg var deg.	I wouldn't go there if I were you.		y
+Jeg er i ferd med å begynne.	I'm about to begin.		y
+Han syklet med jevn fart.	He cycled with an even speed.		y
+Han ble oppe sent mens han jobbet på dokumentene.	He was up late while he worked on the documents.		y
+Det viser seg at han tar feil.	It appears that he is mistaken.		y
+De så en katt klatrende opp i treet.	They saw a cat climbing up the tree.		y
+Det er ingenting som iskrem om sommeren.	There is nothing like ice cream in the summer.		y
+Hun holdt på med oppvasken.	She was washing the dishes./ She kept busy with the dishes		y
+Han bor i en landsby.	He lives in a village.		y
+Jeg har alltid trodd at hjerteinfarkt var den måten som naturen forteller deg at du skal dø.	I have always thought that a heart attack was the way nature tells you that you're going to die.		y
+Han har ikke råd til en ny bil.	He is not able to afford a new car.		y
+Du kommer til å få mange gaver på burdsdagen din.	You're going to get many presents on your birthday.		y
+Det er ti dager siden kjæresten min ble satt i fengsel.	It's been 10 days since my boyfriend went to jail.		y
+Mange mistet huset sitt i jordskjelvet.	Many lost their homes in the earthquake.		y
+Han mumlet et eller annet.	He mumbled something or another.		y
+Jeg ringer på igjen senere.	I'll call again later.		y
+Oversettelsen er meget tro mot originalen.	The translation is extremely faithful to the original.		y
+Firmaet sa opp fem personer.	The company laid off five people.		y
+Huset med det ødelagte taket er blitt reparert.	The house with the damaged roof has been repaired.		y
+En kan ikke gjøre noe annet enn å beundre hans mot.	One can't do anything other than admire his courage.		y
+Vann består av oksygen og hydrogen.	Water comprises of oxygen and hydrogen.		y
+Jeg ble veldig forskrekket over den plutselige forandringen i humøret hans.	I became very astonished by the sudden change in his mood.		y
+Alle kjedet seg over den lange talen hans.	Everyone was bored by his long speech.		y
+Hun har jobbet hardt for å tjene opp penger.	She has worked hard to save up money.		y
+Når kommer hun hjem igjen?	When does she come home again?		y
+Men funksjonen din er ikke Lipschitz-kontinuerlig!	But your function isn't Lipschitz continuous!		y
+Ikke vær redd for å si feil når du snakker Engelsk.	Don't be afraid of making mistakes when speaking English.		y
+Rommet er ikke lyst nok til å sy i.	The room isn't light enough to sew in.		y
+Da jeg våknet, var det ingen hjemme, og jeg var overlatt til meg selv hele dagen.	When I woke up, no one was at home, and I was abandoned (left alone) all day.		y
+Mørke er fravær av lys.	Darkness is the absence of light.		y
+Hvordan kan en se forskjell på god og dårlig engelsk?	How can one tell (see) the difference from good and bad English?		y
+Jeg er nødt til å studere.	I must study.		y
+Hvis du ikke leser avisen er du uinformert. Hvis du leser avisen er du feilinformert.	If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.		y
+Begge søstrene er blondiner.	Both sisters are blonde.		y
+Jeg tok på meg jobben med å lese korrektur.	I got (took) myself the job proof-reading.		y
+Kina er tjue ganger så stort som Japan.	China is twenty times as large as Japan.		y
+Det er beklagelig at vi har relativt lite kunnskap om forekomst av tretthet i sentralnervesystemet.	It is regrettable that we have relatively little knowledge about the occurence of fatigue in the central nervous system.		y
+Jeg burde studert engelsk, men jeg vil heller se en film.	I should be studying English, but I'd rather watch a movie.		y
+Bussjåføren så ikke fotgjengeren.	The bus driver didn't see the pedestrian.		y
+Alle universitetets studenter kan fritt benytte universitetsbiblioteket.	All students are free to make use of the university library./ All of the university's students can make free use of the university library.		y
+Vi får ikke sove på grunn av bråket.	We don't get sleep because of the noise.		y
+Han dro ut av landet for å studere.	He left the country to study.		y
+Da hun merket at den mannen fulgte etter henne, begynte hun å bli redd.	When she noticed that the man followed after her, she began to become scared.		y
+Han snorket høyt mens han sov.	He snored loudly while he slept.		y
+Han fortalte meg at han skulle dra til Amerika.	He told me he would go to America.		y
+Forsiktig, mannen har en pistol.	Careful, the man has a gun.		y
+De visste det ikke engang selv.	They didn't even know themselves.		y
+På grunn av tung snø, ankom flyet fra Beijing 20 minutter for sent.	Because of heavy snow, the plane arrived from Beijing 20 minutes late.		y
+Jeg har det travelt for tiden.	I'm busy right now.		y
+Han kom på femteplass i løpet.	He came in fifth place in the race.		y
+Folk sier ofte at japansk er et vanskelig språk.	People often say that Japanese is a difficult language.		y
+Slå opp læreboka på side 50.	Look up page 50 in the textbook.		y
+Jeg er vant til det.	I'm used to it.		y
+I dag fløy en stor bil av veien.	Today a big car flew off the road.		y
+Denne regelen gjelder deg også.	This rule applies to you as well.		y
+Du kan stole på ham til en viss grad, men ikke helt.	You can trust him to some degree but not wholly.		y
+Han anbefalte meg å gå der.	He recommended I go there.		y
+Jeg har vondt i magen.	I have a sore stomach.		y
+Jeg var ikke så mye trist som jeg var sint.	I wasn't so much sad as I was angry.		y
+Jeg har lyst til å senke meg ned i havets dyp, og forsvinne der for aldri å bli sett igjen.	I want to submerge myself in the ocean's depths, and to disappear there so as to never be seen again.		y
+Vi skyndte oss til togstasjonen.	We hurried to the train station.		y
+Selv om han gjorde det bra på eksamen, er ikke den muntlige kinesisken hans nødvendigvis like god som din.	Although he did well on the exam, his spoken Chinese is not necessarily as good as yours.		y
+Har du bestemt deg for om du sykler eller tar bussen til byen?	Have you decided whether you cycle or take the bus to the city?		y
+Hun er en dyktig tennisspiller.	She is a good (skillful) tennis player.		y
+Lukk døren.	Shut the door.		y
+Alle veier fører til Roma.	All roads lead to Rome.		y
+Du skulle ha hørt på meg.	You should have listened to me.		y
+Når man ber om penger, må man akseptere visse betingelser.	When one borrows money, one must accept certain conditions.		y
+Hyggelig å treffe deg, fru Jones.	Nice to meet you, Mrs Jones.		y
+Melk holder seg ikke lenge når det er varmt.	Milk doesn't last long when it is warm.		y
+Jeg tror kofferten min har blitt stjålet.	I think my suitcase has been stolen.		y
+Jeg var hos tannlegen i dag.	I went to the dentist today.		y
+Atombomber er en fare for menneskeheten.	Atomic bombs are a danger to humanity.		y
+Alle bussene er fulle.	All of the buses are full.		y
+Hvem var det som skrev disse to brevene?	Who was it who wrote these two letters?		y
+Hvalen er et veldig stort pattedyr som lever i sjøen.	The whale is a very large mammal who lives in the sea.		y
+Jeg gikk ut etter å ha bedt Jordan passe på huset.	I went out after having asked Jordan to watch after the house.		y
+En, tre og fem er oddetall.	One, three, and five are odd numbers.		y
+Beviset er trivielt.	The proof is trivial.		y
+Beviset overlates til leseren.	The proof is left to the reader.		y
+Teoremet er åpenbart sant for endelige mengder.	The theorem is obviously true for finite sets.		y
+Vi viser nå hvordan dette dilemmaet kan brukes til å bevise hovedteoremet vårt.	We now show how this dilemma can be used to prove our main theorem.		y
+Merk at det ikke alltid finnes et maksimum.	Note that there doesn't always exist a maximum.		y
+Jeg går sammen med henne.	I'm walking with her.		y
+Tyskland er en parlamentarisk republikk.	Germany is a parliamentary republic.		y
+Jeg trodde han ville komme på møtet.	I thought he would come to the meeting.		y
+Kom snart igjen.	Come back soon.		y
+Jeg brast ut i latter da jeg så ham.	I burst out laughing when I saw him.		y
+Det er varmt i dag.	It's warm today.		y
+Jeg har to søskenbarn.	I have two cousins.		y
+Jeg giftet meg ikke med henne fordi jeg elsket henne.	I didn't marry her because I loved her.		y
+Det bor tilhengere av flere ulike religioner i Hviterussland.	Adherents of various religions live in Belarus.		y
+Tom arbeider like så flittig som noen annen gutt i klassen.	Tom works just as diligently as any other boy in the class.		y
+Dette er huset han bor i.	This is the house he lives in.		y
+Dette er huset hvor han ble født.	This is the house where he was born.		y
+Vennligst vis meg bildene.	Please show me the photos.		y
+Jeg tilbrakte tolv timer på toget.	I spent twelve hours on the train.		y
+Det finnes en type idealisme som sier at hvis du bare gjør ditt beste kan du klare alt, selv uten intelligens og fysisk styrke.	There is a type of idealism which says that if you just do your best, you can do anything, regardless of intelligence and physical strength.		y
+Vær stille mens vi spiser.	Be quiet while we're eating.		y
+I morgen lander han på månen.	Tomorrow he lands on the moon.		y
+Hvor er tingene dine?	Where are your things?		y
+Hvilket yrke har du?	What is your profession / occupation?		y
+Hun ventet forgjeves på et livstegn fra vennen sin.	She waited unsuccessfully for a sign of life from her friend.		y
+Nederlandsk er nært beslektet med tysk.	Dutch is closely related to German.		y
+Prisen varierer med etterspørselen.	The price varies with demand.		y
+Jeg klarer ikke å gå lengre.	I can't do it anymore.		y
+Du har ikke feber.	You don't have a fever.		y
+Det vil ikke skje.	That won't happen.		y
+Du er alltid overengstelig.	You're always overanxious.		y
+Hun selger dop på konserter.	She's selling drugs at concerts.		y
+Vennligst ta av deg sokkene.	Please take off your socks.		y
+Den som ikke kan et fremmed språk, vet ingenting om sitt eget.	Those who don't know a foreign language know nothing about their own.		y
+Vi tror fortsatt det er sant at han er uskyldig.	We still believe it is true that he is innocent.		y
+Han gir henne alltid en gave på fødselsdagen.	He always gives her a present on her birthday.		y
+Hvordan går det? Jeg har ikke sett deg på en evighet!	How are you doing? I haven't seen you for an eternity!		y
+Jeg legger til side ti dollar hver måned.	I put away 10 dollars each month.		y
+Du må hjelpe henne.	You must help her.		y
+Jeg liker kort hår.	I like short hair.		y
+Håret mitt har samme lengde som Janes.	My hair has the same length as Jane's.		y
+Du står fritt til å reise hvor du vil.	You have the freedom to travel wherever you like.		y
+I fjor var han tre måneder på sjøen.	Last year, he was at sea for three months.		y
+Han ble lagt i narkose.	He was put under anesthesia.		y
+Vet du hvordan du spiller Mahjong?	Do you know how you play Mahjong?		y
+Hun ønsker å bli simultanoversetter.	She wants to be a simultaneous-interpreter.		y
+Jeg trådte forsiktig på gasspedalen.	I stepped carefully on the accelerator.		y
+Firmaet går i rødt.	The company is in the red.		y
+Han gikk og fisket i mellomtiden.	He went fishing meanwhile.		y
+Alt jeg vet er at hun dro forrige uke.	All I know is that she left last week.		y
+Du er frustrert over jobben din	You're frustrated about your job.		y
+Er du ferdig med din del av jobben?	Have you finished your share of the work?		y
+Læreren gav oss ti oppgaver til hjemmelekse.	The teacher assigned us ten problems for homework.		y
+De tildelte oss jobben.	They assigned the task to us.		y
+Jeg reparerer huset.	I'm repairing the house.		y
+Jeg vet ikke om hun kommer.	I don't know whether she will come.		y
+Av en eller annen grunn virket ikke mikrofonen tidligere.	For some reason the microphone didn't work earlier.		y
+Endelig!	Finally!		y
+Jeg vet alt.	I know everything.		y
+Det er nesten ikke melk i glasset.	There is little milk in the glass./ There isn't nearly (any) milk in the glass.		y
+Han er minst seksti år gammel.	He is atleast sixty years old.		y
+Han har en veldig levende fantasi.	He has a very vivid imagination.		y
+Jeg har ikke den fjerneste anelse om hva det neste han vil gjøre er.	I don't have the remotest idea what he will do next.		y
+Faren min gjorde som jeg hadde anbefalt og kuttet ned på salt mat.	My father did as I had recommended and cut down on salty food.		y
+Gjør dette vondt?	Does this hurt?		y
+Han skyndet seg for å nå bussen.	He hurried so as to catch the bus.		y
+Jeg har ikke noe spesielt å si om saken.	I have nothing special / particular to say about the issue.		y
+Vi må respektere lokale skikker.	We have to respect local customs.		y
+Magnesium er et kjemisk grunnstoff.	Magnesium is a chemical element.		y
+Jeg har fått nok av frekkheten hans.	I have had enough of his impudence./ I have gotten enough of his impudence.		y
+Jeg er bankansatt.	I work at a bank./ I am a bank employee.		y
+Jeg forventer at du skal jobbe hardere.	I expect you to work harder.		y
+På den tiden dro Yuri ofte til London.	In those days Yuri often went to London.		y
+Vi så en baseball-kamp på TV.	We watched a baseball game on television		y
+Du tuller?	Are you kidding?		y
+Stormen gjorde stor skade på eiendomen hennes.	The storm did great damage to her property.		y
+Jeg tror denne boken vil være til stor hjelp for dere.	I am sure this book will be of great help to you (pl).		y
+Mike er god til å synge.	Mike sings well.		y
+Det er så varmt at du kunne stekt egg på et bilpanser.	It's so hot that you could bake an egg on a car hood.		y
+Hvem vil ha varm sjokolade?	Who wants hot chocolate?		y
+Da jeg kom hjem, oppdaget jeg at jeg hadde mistet lommeboken min.	When I got home, I discovered that I had lost my wallet.		y
+Jeg var nødt til å stå opp tidlig.	I had to get up early.		y
+Stå opp tidlig i morgen!	Get up early tomorrow morning!		y
+Vi lyttet til skuddvekslingen.	We listened to the shooting.		y
+Kast ikke bort et eneste riskorn!	Waste not a single grain of rice!		y
+Pass på å ikke havne i trøbbel.	Beware that you don't get into trouble.		y
+Det bet flere ganger, men jeg greide ikke å få noe på kroken.	It bit several times, but I didn't manage to get anything on the hook.		y
+Han måket snøen av taket.	He cleared snow from the roof.		y
+Hun er langt fra ærlig.	She is far from honest.		y
+Jeg støtte på en gammel venn på bussen.	I bumped into an old friend on the bus.		y
+Pass på å sjekke inn senest 45 minutter før avgang.	Be sure to check in at least 45 minutes prior to departure time.		y
+Jeg lurer på hva som har skjedd.	I wonder what has happened.		y
+Godt nytt år!	Happy New Year!		y
+Jeg er kanskje antisosial, men det betyr ikke at jeg ikke snakker med folk.	I may be antisocial, but it doesn't mean I don't talk to people.		y
+Han ble forgiftet av å spise fugu.	He was poisoned by the fugu (pufferfish) he ate.		y
+Kan du se forskjell på Jane og tvillingsøsteren hennes?	Can you see the difference from Jane and her twin sister?		y
+Strengt tatt er tomat en frukt.	Strictly speaking, tomato is a fruit.		y
+Den engelske kanal skiller England og Frankrike.	The English Channel separates England and France.		y
+Bildet henger opp ned.	The picture is hung upside down.		y
+Hun begynte å snakke til hunden.	She began to talk to the dog.		y
+Det vil sette deg i fare.	That will put you in danger.		y
+Denne sangen er lett å lære.	This song is easy to learn.		y
+Han er sterkere enn deg.	He's stronger than you.		y
+Det var et stort jordskjelv i går natt.	There was a big earthquake last night.		y
+Vil du ha en kopp te til?	Would you have another cup of tea?		y
+Bare fire hester deltok i kappløpet.	Only four horses competed in the race.		y
+Naboen min har renovert huset sitt fullstendig.	My neighbour has renovated his house completely.		y
+Det er tvilsomt om en kan stole på disse dataene.	It is questionable whether one can trust this data.		y
+Han prøvde å slutte å røyke flere ganger, uten hell.	He tried to give up smoking several times, but failed.		y
+Måtte kraften være med deg.	May the force be with you.		y
+Hovedkontoret vårt er i Osaka.	Our main office is in Osaka.		y
+Hvilken er dyrest av de to?	Which is the more expensive of the two?		y
+Jeg kom sist natt.	I arrived here last night.		y
+Du kan ikke forvente at han kjenner til historien når han ikke har lest den.	You can not expect that he knows the story when he has not read it.		y
+Har du bestemt deg for å dra til Japan?	Have you decided to go to Japan?		y
+Navnet ditt står først på listen.	Your name stands first in the list.		y
+Dette gamle bordet er fortsatt i bruk.	This old table is still in use.		y
+Du kan bruke bilen min, hvis du vil.	You can use my car, if you want to.		y
+Hva minner denne hatten deg om?	What does this hat remind you of?		y
+Der stikker et nes ut i sjøen.	There sticks a cape out into the sea.		y
+Den gamle mannen var ikke så sur som han så ut til å være.	The old man was not as mean as he looked out to be.		y
+Hva slags grunn ga han for å være så sen?	What kind of reason did he give for being so late?		y
+Hunden åt ikke kjøttet.	The dog didn't eat the meat.		y
+Han sluttet å lese avisen.	He stopped reading the newspaper.		y
+Det sies at dette tempelet ble bygd for over 500 år siden.	It is said that this temple was built over 500 years ago.		y
+Jeg var førsteårsstudent i fjor.	I was a first year student last year.		y
+Passer det for deg hvis jeg kommer klokken seks om ettermiddagen?	Is it convenient for you if I come at 6 p.m.?		y
+Vis at P er en delvis ordnet mengde.	Prove that P is a partially ordered set.		y
+Er denne stigen solid nok til å bære meg?	Is this ladder solid enough to bear my weight?		y
+Jeg finner ikke Tim. Kan han ha dratt allerede?	I can't find Tim. Can he have left already?		y
+Han leter etter en jobb.	He is seeking employment.		y
+Arbeidsmarkedet er ikke mettet.	The job market is not saturated.		y
+Fengselsvaktene vil streike i tre dager fra midnatt.	The prison guards will strike from midnight in three days.		y
+Hun skrev mange dikt.	She wrote a lot of poems.		y
+Fyll ut skjemaet under.	Fill out the form below.		y
+Det er synd jeg ikke trenger å gå ned i vekt.	It's too bad I don't need to lose weight.		y
+Vet du hvem den beste spilleren i ligaen er?	Do you know who the best player in the league is?		y
+Hun likte ikke å bo i byen.	She didn't like living in the city.		y
+Jeg sto opp sent i dag morges.	I got up late this morning.		y
+Hvorfor kunne han ikke komme?	Why couldn't he come?		y
+Jeg åpnet døren og så to gutter som sto side om side.	I opened the door and saw two boys standing side by side.		y
+Denne boksen er full av epler.	This box is filled with apples.		y
+Har du sett den filmen?	Have you seen that film?		y
+Ikke forveksle begjær med kjærlighet.	Don't confuse desire with love.		y
+Våren kommer etter vinteren.	Spring comes after winter.		y
+Nancy vil ha et par røde sko.	Nancy wants a pair of red shoes.		y
+Du kommer fram i tide så lenge du rekker toget.	You'll get there in time, so long as you catch the train.		y
+Det franske flagget er blått, hvitt og rødt.	The French flag is blue, white and red.		y
+Denne byen er kald og ensom uten deg.	This city is cold and lonely without you.		y
+Laget vårt hadde røde skjorter.	Our team had red shirts.		y
+Jeg har aldri sett et rødt kjøleskap.	I have never seen a red refrigerator.		y
+God natt! Drøm søtt!	Good night. Sweet dreams.		y
+Denne bilen kan ta fire tonn.	This car can carry a load of 4 tons.		y
+Noen minutter senere ringte telefonen.	A few minutes later the telephone rang.		y
+Hva er det du leser?	What are you reading?		y
+Denne heisen går ikke høyere enn sjette etasje.	This elevator does not go higher than the sixth floor.		y
+Hun er alltid bra sminket.	She is always well made up.		y
+Tegnet viser at svaret er riktig.	The sign means that the answer is correct.		y
+Faren min er en engelsklærer.	My father is a teacher of English.		y
+Han satte henne med vilje i fare.	He intenionally put her in danger.		y
+Jeg er enig med deg om denne saken.	I agree with you on this issue.		y
+Etterhvert som rumpetroll vokser forsvinner halen, og det begynner å dannes føtter.	Gradually as tadpoles grow, the tale disappears and it begins to form legs.		y
+De forventer at du samarbeider.	They expect that you cooperate.		y
+Vi var utslitte etter den lange gåturen.	We were tired out after the long walk.		y
+Hvor lenge har han vært borte?	How long has he been away?		y
+Har du gått ned i vekt?	Have you lost weight?		y
+Alle er klare.	Everyone is ready.		y
+Ikke kom for sent på skolen i morgen!	Don't come too late for school tomorrow.		y
+Jeg går og handler i morgen.	I'm going shopping tomorrow.		y
+Jeg trenger å vite det innen i morgen.	I need to know by tomorrow.		y
+Hvis det regner i morgen, blir jeg hjemme.	If it rains tomorrow, I'll be at home.		y
+Det er vanskelig å forutsi hvordan været vil være i morgen.	It's hard to predict how the weather will be tomorrow.		y
+Han snakker bedre engelsk enn jeg gjør.	He speaks English better than I do.		y
+Jeans er på moten blant jenter for tiden.	Jeans are in vogue among girls now.		y
+Jeg liker virkelig konseptet for denne nettsiden.	I really like the concept of this website.		y
+Festen ble en suksess.	The party was a success.		y
+Han hadde ingen andre klær enn de han hadde på seg.	He had no clothes other than what he was wearing.		y
+Han savner familien sin.	He misses his family.		y
+Jeg kan ikke godta planen din.	I cannot approve your plan.		y
+Du må være sulten etter å ha gått så langt.	You must be hungry after having walked so long.		y
+Forestill deg at vi kan fly som fugler.	Just imagine that we can fly like birds.		y
+Dette er et essensielt punkt.	This is an essential point.		y
+Pengene mine ble stjålet.	My money was stolen.		y
+Det skjedde en bilulykke i går.	There was a car accident yesterday		y
+Mannen snakket med lav stemme.	The man spoke in a low voice.		y
+Hvorfor avslo du tilbudet hans?	Why did you turn down his offer?		y
+Ligger skolen langt fra huset?	Is the school far from home?		y
+Denne boken duger.	This book will do.		y
+Du er høy, men han er høyere.	You are tall, but he is taller.		y
+Jeg har ikke ord på hvor takknemlig jeg er.	I have no words for how greatful I am.		y
+Kaniner har lange ører.	Rabbits have long ears.		y
+Ring meg hvis du finner ut noe.	Give me a ring if you find out anything.		y
+Jeg blir ofte forvekslet med min bror.	I am often mistaken with my brother.		y
+Hun jobber som sykepleier på det lokale sykehuset.	She works as a nurse at the local hospital.		y
+Tjue personer omkom i brannen.	Twenty people perished in the blaze.		y
+Han kjøpte en ny ordbok til meg.	He bought a new dictionary for me.		y
+Han liker sladder.	He likes gossip.		y
+Jeg vil heller bli lurt enn å lure noen.	I would rather be deceived than to deceive someone.		y
+Hvem sin sykkel er dette?	Whose bike is this?		y
+Denne blomsten avgir en sterk duft.	This flower emits a strong fragrance.		y
+Jeg er stolt over å ta del i dette prosjektet.	I am proud to be a part of this project.		y
+Generalen beordret en massakre av alle krigsfanger.	The general ordered a massacre of all prisoners of war.		y
+Snøen fortsatte å falle i fire dager.	The snow continued to fall for four days.		y
+Grønt kler deg veldig godt.	Green suits you very well.		y
+Ingen kjenner det virkelige navnet hans.	No one knows his real name.		y
+Skipet vil krysse ekvator i morgen.	The ship will cross the equator tomorrow.		y
+Duer kan bruke jordens magnetfelt til å finne veien hjem.	Pigeons can use the Earth's magnetic field to find the way home.		y
+Jeg er en helt.	I'm a hero.		y
+Smerten har for det meste forsvunnet.	The pain has mostly disappeared.		y
+Jeg har ikke råd til å kjøpe et kamera til over 300 dollar.	I cannot afford to buy a camera above 300 dollars.		y
+Skandalene som nylig har vært rundt religiøse ledere og altergutter har undergravet folkets tillit til kirken.	The scandals that recently have been around religious leaders and alter boys have undermined people's faith in the church.		y
+Dette er et merkelig brev.	This is a peculiar letter.		y
+Hvorfor ikke spørre ham om råd?	Why not ask him for advice?		y
+Jeg synes svømming er gøy.	I think swimming is fun.		y
+Dette apparatet produserer elektrisitet.	This apparatus produces electricity.		y
+Dette er den beste måten å løse problemet på.	This is the best way to solve that problem.		y
+Han er heldig som har en så god hustru.	He is lucky to have such a good wife.		y
+Det var ikke en stjerne å se den natten.	There was not a star to see that night.		y
+Det gjør vondt i hele kroppen.	I ache all over.		y
+Den som ler sist, ler best.	Whoever laughs last, laughs best.		y
+Hvor vil dere dra til sommeren?	Where do you (pl.) want to go this summer?		y
+Jeg begravet hunden min på dyrekirkegården.	I buried my dog at the pet cemetery.		y
+Far kom hjem for rundt ti minutter siden.	Father came home about ten minutes ago.		y
+Dragen er et fantasidyr.	The dragon is an imaginary creature.		y
+Jeg betraktet Tom som en venn.	I regarded Tom as a friend.		y
+Mannskapet er opptatt med å forberede reisen til det ytre rom.	The crew is busy preparing for the voyage into outer space.		y
+Det er en tiltrekkende tanke.	It is an attractive idea / thought.		y
+Han valgte å bo i Tokyo og ikke i Osaka.	He chose to live in Tokyo and not in Osaka.		y
+Det gjør liten forskjell om du tar drosje eller går dit.	It makes little difference whether you take a taxi or go there.		y
+Jeg kjente straks læreren igjen, fordi jeg hadde møtt ham før.	I immediately recognized the teacher because I had met him before.		y
+Jeg lette etter noe som ikke fantes.	I was looking for something that didn't exist.		y
+Jeg har livsforsikring.	I have life insurance.		y
+De kranglet over hvilket språk som var enklest av Tysk og Fransk.	They argued over which language was easiest of German and French.		y
+Jeg brente hånden min på et strykejern.	I burned my hand with an iron.		y
+Studentene stod og ventet på en buss.	The students stood waiting for a bus.		y
+Jeg skylder henne 100 000 yen.	I owe her 100,000 yen.		y
+Lokale partimedlemmer prøver å få valgkretsene for distriktet lagt slik at det gavner deres parti.	Local party members are trying to get the constituents for the district organized so that it benefits their party.		y
+Vi klarte ikke å følge logikken hans.	We were unable to follow his logic.		y
+Under krigen prøvde USA å stoppe handelen med England.	During the war, America tried to stop trading with England.		y
+Han er veldig folkesky. Han sier at han vil møte deg.	He's very shy. He says that he wants to see you.		y
+Sammenlign oversettelsen deres med oversettelsen på tavlen.	Compare your (pl.) translation with translation on the blackboard.		y
+De fleste japanske templer er laget av tre.	Most Japanese temples are made of wood.		y
+Jeg drar ikke på piknik hvis det regner i morgen.	I won't go on a picnic if it rains tomorrow.		y
+Mannen som står der borte er faren min.	The man who is standing over there is my father.		y
+Presidenten har vanligvis med seg sin hustru når han reiser utenlands.	The President is usually accompanied by his wife when he travels abroad.		y
+Det kan være en fordel for meg å gjøre ting på denne måten.	It can be an advantage to me to proceed in this way.		y
+Denne dressen ser dyr ut.	This suit seems to be expensive.		y
+Legen ba herr Smith om å slutte å røyke.	The doctor told Mr. Smith to stop smoking.		y
+Jeg gav ham det lille av penger jeg hadde.	I gave him what little money I had.		y
+Tom er helt oppslukt av det spillet.	Tom is totally engrossed by that game.		y
+Fortalte du ham ikke noen ting?	You didn't tell him anything?		y
+Jeg traff henne tilfeldigvis på gaten.	I met her by chance on the street.		y
+Hagen hennes er et kunstverk.	Her garden is a work of art.		y
+Jeg snakket med henne i en time.	I talked to her for an hour.		y
+Det er umulig å leve uten vann.	It is impossible to live without water.		y
+Tror du på spøkelser?	Do you believe in ghosts?		y
+Jeg kjøpte ny datamaskin forrige måned.	I bought a new computer last month.		y
+Jeg hørte en hund gjø i det fjerne.	I heard a dog barking in the distance.		y
+Ikke selg skinnet før bjørnen er skutt.	"Don't count your chickens before they hatch. (lit. ""Don't sell the skin before the bear is shot."")"		y
+Hun har ingen fiender.	She doesn't have any enemies.		y
+Hvor mange ganger så du filmen?	How many times did you see the movie?		y
+Jeg snakket med skuespillerinnen i egen person.	I spoke to the actress herself.		y
+Prinsen forelsket seg i en tømmerhugger sin datter.	The prince fell in love with a woodcutter's daughter.		y
+Han eier en stor restaurant ved innsjøen.	He owns a big restaurant near the lake.		y
+Ikke vær redd for å gjøre feil når du snakker Engelsk.	Don't be afraid of making mistakes when speaking English.		y
+Shakespeare er anerkjent som den største dramatikeren.	Shakespeare is recognized as the greatest dramatist.		y
+Hun får gode karakterer i engelsk.	She gets good marks in English.		y
+Vi skjønte at det ville være umulig for oss å krysse elven.	We realized that it would be impossible for us to cross the river.		y
+Det var nesten ingen barn i rommet.	There were almost no children in the room.		y
+Kan du si meg veien til havnen?	Could you tell me the way to the port?		y
+Fram til nå har vi hatt en meget behagelig reise.	Up until now we have had a very pleasant journey.		y
+Det var så mørkt at de nesten ikke kunne se.	It was so dark that they nearly could not see.		y
+Alt er over.	It's all over.		y
+Look [magazine] utgis ikke lenger.	Look [magazine] is no longer being published.		y
+Han har en stor gård i Colorado.	He has a large farm in Colorado.		y
+Fra krybbe til grav.	From the cradle to the grave.		y
+Kapteinen ba oss forlate skipet.	The captain told us to abandon the ship.		y
+Jeg dro til dyreparken.	I went to the zoo.		y
+Dette landet gir gode avlinger.	This land gives good crops.		y
+Hva gjorde du i ferien?	What did you do on your vacation?		y
+Jeg kjenner bare navnet hans.	I only know his name.		y
+Jeg skulle ønske jeg kunne svømme.	I wish I could swim.		y
+De sendte inn spioner for å agitere lokalbefolkningen.	They sent in spies to agitate the local people.		y
+Han går til jobben hver dag unntatt når det regner.	He walks to work every day except when it rains.		y
+Hvor lenge vil dette tauet holde?	How long will this rope hold?		y
+Jeg er lei av lekser.	I am tired of homework.		y
+Det er umulig for ham å bli ferdig med det på en time.	It is impossible for him to finish it in an hour.		y
+Jeg må gå og handle. Jeg er tilbake innen en time.	I have to go shopping. I'll be back in an hour.		y
+Jeg er fornøyd med jobben min.	I am content with my job.		y
+Matematikk er som kjærlighet - en enkel idé, men det kan bli komplisert.	Math is like love - a simple idea, but it can get complicated.		y
+Når vil du høste hveten?	When will you harvest the wheat?		y
+Han flyttet pulten til høyre.	He moved the desk to the right.		y
+Tom kom løpende med et brev fra Judy.	Tom came running with a letter from Judy.		y
+Lommetyven forsvant i folkemengden.	The pickpocket disappeared into the crowd.		y
+Ønsket hans ble endelig oppfylt.	He finally got his wish./ His wish was finally fulfilled.		y
+Tårnet helte litt mot vest.	The tower leaned slightly to the west.		y
+Jeg er overbevist om at du er uskyldig.	I am convinced that you are innocent.		y
+Jeg klandrer ham absolutt ikke.	I absolutely don't blame him.		y
+Det var ikke mange kvinnelige leger på den tiden.	There were not many women doctors in those days.		y
+Faren min trodde at folk som ikke greide å tjene til livets opphold i Japan var late.	My father believed that people who could not make (manage) a living in Japan were lazy.		y
+Hun tjener til livets opphold ved å selge maleriene sine.	She earns a living by selling her paintings.		y
+Jeg tror dette er en ferskvannsfisk.	I believe this is a freshwater fish.		y
+Jeg leser ikke så mye av denne typen bøker.	I don't read this kind of book so much.		y
+Bussen kjørte nesten på ham.	The bus nearly ran over him.		y
+Det var ingen protest fra studentenes side.	There was no protest from the students' side.		y
+Du ville blitt overrasket over hvor mye en kan lære på en uke.	You'd be surprised by how much one can learn in a week.		y
+Mannen som ringte for en time siden var Frank.	The man who telephoned an hour ago was Frank.		y
+Hvem er det som spiller gitar?	Who is that playing guitar?		y
+Ærlighet er en dyd.	Honesty is a virtue.		y
+Kjærlighet gjør blind.	Love is blind.		y
+Jeg har et medfødt talent for matematikk.	I have a natural ability in mathematics.		y
+Barnet plukket opp en liten stein.	The child picked up a small stone.		y
+Jeg kunne ikke huske hva de het.	I couldn't remember what they were called.		y
+Et stykke brød var ikke nok til å stille sulten hans.	A piece of bread was not enough to satisfy his hunger.		y
+Fjellet er dekket av snø hele året.	The mountain is covered with snow the whole year.		y
+Når jeg finner noe jeg liker, er det alltid for dyrt.	Whenever I find something I like, it's too expensive.		y
+Han gav livet sitt og reddet babyen.	He gave his life and saved the baby.		y
+Hun er veldig stolt over frimerkesamlingen sin.	She is very proud of her stamp collection.		y
+Han kjenner ordfoereren.	He is acquainted with the mayor.		y
+Hun tok på seg hatten.	She put on her hat.		y
+Det er to elever borte i dag.	There are two students absent today.		y
+Kan du låne meg litt penger?	Would you lend me some money?		y
+Det er tvilsomt om han har gjort hjemmeleksene alene.	It is doubtful whether he has done his homework by himself.		y
+Det er akkurat denne boken jeg vil lese.	This is the very book I want to read.		y
+Livet hans er i mine hender.	His life is in my hands.		y
+Kan jeg stille et par spørsmål?	May I ask a couple of questions?		y
+Dette er et bra fotoapparat.	This is a nice camera.		y
+Sykkelen din ligner på min.	Your bicycle is similar to mine.		y
+Banen rundt Sirius er elliptisk.	The orbit around Sirius is elliptical.		y
+Han begynte å lukte ugler i mosen når selgeren ikke ville la ham teste produktet før han kjøpte det.	He began to suspect something was wrong when the seller wouldn't let him test the product before he bought it.		y
+Overflaten på en ballong er ikke et euklidsk rom, og følger dermed ikke reglene for euklidsk geometri.	The surface of a balloon is not a Euclidean space, and therefore does not follow the rules of Euclidean geometry.		y
+De fleste datamaskiner som lages i dag er utstyrt med flerkjerneprosessorer.	Most computers made today are equipped with multi-core processors.		y
+De fleste datamaskiner i dag er basert på von Neumann-arkitekturen.	Most computers these days are based on the von Neumann architecture.		y
+På atomnivå ser vi kvantemekaniske effekter som ikke kan forklares med klassisk mekanikk.	At the atomic scale we observe quantum mechanical effects that can not be explained by classical mechanics.		y
+Problemet blir lettere å regne ut hvis du setter opp ligningssettet på matriseform.	The problem becomes easier to solve if you set up the system of equations in matrix form.		y
+Han kan gjøre seg forstått på engelsk.	He can make himself understood in English.		y
+Elven har oversvømmet hele området.	The river has flooded the entire region.		y
+Jeg kjente ikke melodien.	I was not familiar with the melody.		y
+Han er innlagt på sykehus.	He is hospitalized.		y
+En dikter betrakter verden som en mann betrakter en kvinne.	A poet regards the world as a man regards a woman.		y
+Hun ble mistenkt for å være en spion.	She was suspected of being a spy.		y
+Politiet arresterte den mistenkte i saken.	The police arrested the suspect in the case.		y
+Denne romanen er verdt å lese.	This novel is worthwhile to read.		y
+Jeg hadde flaks.	I was lucky.		y
+Hvor er nærmeste bank?	Where is the nearest bank?		y
+Førerhunder hjelper personer som ikke kan se.	Guide dogs help blind people.		y
+Aegis-kollisjonen - hvorfor kunne den ikke avverges?	The Aegis collision - why couldn't it be averted?		y
+Bill var for ung til å ta stillingen.	Bill was too young to take the position.		y
+Hvorfor malte du benken rød?	Why did you paint the bench red?		y
+Vinteren er min favorittårstid.	Winter is my favorite season.		y
+Det eksperimentet var mislykket.	That experiment was a failure.		y
+Kan du synge noen sanger på engelsk for oss?	Can you sing some songs in English for us?		y
+Sukker løser seg opp i varm kaffe.	Sugar dissolves in hot coffee.		y
+Trucken svingte hardt til venstre.	The truck swung hard to the left.		y
+Ikke alle fugler kan fly.	Not all birds can fly.		y
+Vi overnattet i Hakone.	We spent the night in Hakone.		y
+Så vidt jeg vet har ikke romanen blitt oversatt til japansk.	As far as I know, the novel has not been translated into Japanese.		y
+Dette verbet brukes vanligvis bare i tredje person.	This verb is normally used only in the third person.		y
+Det er vanskelig å oversette et dikt til et annet språk.	It is difficult to translate a poem into another language.		y
+Jeg vil gjerne bli med i gruppen din.	I'd like to join your group.		y
+Hva er det du prøver på?	What are you trying to do?		y
+Det han sier er på en måte sant.	What he says is in a sense true.		y
+En gutt går over veien.	A boy is walking across the street.		y
+Jeg har ikke lyst til å spise ute i kveld.	I don't feel like eating out this evening.		y
+Vi er invitert på middag.	We are invited to dinner.		y
+Kan du være så snill og kjøre meg hjem?	Could you please drive me home?		y
+I min erfaring, kommer sykdom ofte av søvnløshet.	From my own experience, illness often comes from sleeplessness.		y
+Hadde det ikke vært for rådet hennes, ville han ha mislyktes.	Had it not been for her advice, he would have failed.		y
+Jeg tror jeg skal legge meg litt.	I think I'll lie down for a while.		y
+Det er ikke sikkert hun vet at vi er her.	She might not know that we are here./ It is uncertain she knows that we are here.		y
+La den stå i kjøleskapet til den stivner.	Leave it in the refrigerator until it sets.		y
+Tre fjerdedeler av jordens overflate er vann.	Three-fourths of the Earth's surface is water.		y
+Kom hjem før det blir mørkt!	Come home before it gets dark.		y
+Vi er i ferd med å gå tom for bensin.	We're about to run out of gas.		y
+Hva var årsaken til eksplosjonen?	What was the cause of the explosion?		y
+Atomenergi kan brukes til fredelige formål.	Atomic energy can be utilized for peaceful purposes.		y
+Ser du etter noen?	Are you looking for someone?		y
+Finnes det ingen annen måte?	Is there no other way?		y
+Klimaet er behagelig.	The climate is pleasant		y
+Donna ble født med sølvskje i munnen.	Donna was born with a silver spoon in her mouth.		y
+Telefonen ringte mens jeg var i dusjen.	The phone rang while I was taking a shower.		y
+Jeg har nesten ikke en krone igjen.	I have hardly any money left.		y
+Det er en markant forskjell mellom de to.	There is a marked difference between them.		y
+Stasjonen ligger 100 meter unna.	The station is 100 meters away.		y
+Er butikkene stengt på søndager i England?	Are the stores closed on Sundays in England?		y
+Han er vant til å snakke i forsamlinger.	He is used to speaking in public (gatherings).		y
+Været var flott.	The weather was gorgeous.		y
+Du burde ikke omgås slike folk.	You should not keep company (socialize) with such people.		y
+Han bestemte seg for å studere fysikk på universitetet.	He decided to study physics at the university.		y
+Noe er galt med motoren.	Something is wrong with the engine.		y
+Denne skrivemaskinen har blitt mye brukt.	This typewriter has seen plenty of use.		y
+Han så ut som han hadde sett et spøkelse.	He looked as if he had seen a ghost.		y
+Han fikk sekretæren sin til å oversette brevet til engelsk.	He got his secretary translate the letter into English.		y
+Det er vindstille i dag.	There's no wind today.		y
+De tildelte ham en gullmedalje for prestasjonen hans.	They awarded him a gold medal for his achievement.		y
+Han kastet en mengde gamle brev.	He threw away a bunch of old letters.		y
+Hvorfor kom du ikke?	Why didn't you come?		y
+Han har ikke kommet enda. Kanskje noe har hendt ham.	He has not come yet. Something may have happened to him.		y
+Jeg er på flyplassen nå.	I'm at the airport now.		y
+Han er en ulv i fåreklær.	He is a wolf in sheep's clothing.		y
+Hva er blodtypen din?	What is your blood type?		y
+Hun er ikke så ung som hun ser ut.	She is not as young as she looks.		y
+Det er best å gå regelmessig til tannlegen.	It's best to go regularly to the dentist.		y
+Jeg liker grapefrukt bedre enn appelsiner.	I like grapefruits better than oranges.		y
+Denne medisinen har ingen effekt mot influensa.	This medicine is no effect against influenza.		y
+Det ser ut til å bli regn.	It looks like rain.		y
+Alle untatt en av arbeiderne gikk hjem.	All except one of the workers went home.		y
+Han mistet nesten livet i den ulykken.	He almost lost his life in that accident.		y
+Jeg kan ikke forestille meg et liv uten deg.	I can't imagine a life without you.		y
+Livet er en dødelig seksuelt overførbar sykdom.	Life is a fatal sexually transmitted disease.		y
+Levekostnadene økte kraftig.	The cost of living increased drastically.		y
+Kvalitet er viktigere enn kvantitet.	Quality is more important than quantity.		y
+Jeg vil ha mer detaljert informasjon.	I want more detailed information.		y
+Skriv til meg når du kommer fram.	Write me when you arrive.		y
+Hun er veldig redd for slanger.	She has a great fear of snakes.		y
+Kan du signere her?	Could you sign here?		y
+Vi samles her en gang i uken.	We gather here once a week.		y
+Min far er to år yngre enn min mor.	My father is two years younger than my mother.		y
+Jeg tenker, altså er jeg.	I think, therefore I am.		y
+Intet nytt under solen.	Nothing new under the sun.		y
+Vi er ikke alene om å støtte planen.	We are not alone in supporting the plan.		y
+Har du lyst til å ta en spasertur?	Do you feel like taking a stroll?		y
+Han lever fortsatt.	He is still alive.		y
+Hvor er det vakreste stedet i verden?	Where is the most beautiful place in the world?		y
+Jeg kom, jeg så, jeg erobret.	I came, I saw, I conquered.		y
+Vi har en pave.	We have a Pope.		y
+Jeg vet at jeg intet vet.	I know that I know nothing.		y
+Mennesker lever ikke i denne verden for å bli rike, men for å bli lykkelige.	People do not live in this world to become rich, but to become happy.		y
+Terningen er kastet.	The die is cast.		y
+Hunden min later ofte som den sover.	My dog often pretends to be asleep.		y
+Jeg har litt vanskeligheter med å komprimere denne programvaren.	I'm having some difficulties compressing this software.		y
+Det er menneskelig å feile, guddommelig å tilgi.	It is human to err, divine to forgive.		y
+Du vil bli dårlig hvis du spiser så mye.	You will get sick if you eat so much.		y
+Mange kriminelle i Amerika er avhengige av narkotika.	Many criminals in America are addicted to drugs.		y
+Er det et postkontor i nærheten?	Is there a post office around here?		y
+Regnet slo mot vinduet.	The rain drove (beat / struck) against the window.		y
+Tom har øye for moderne kunst.	Tom has an eye for modern art.		y
+Finnes det et tilsvarende ordtak på japansk?	Is there a corresponding / equivalent saying in Japanese?		y
+Jeg kan godt vente.	I don't mind waiting.		y
+I et demokrati har alle innbyggere like rettigheter.	In a democracy all citizens have equal rights.		y
+Det vil gå over av seg selv i løpet av to uker.	It will go away by itself in two weeks.		y
+Jeg har lett feber.	I have a slight fever.		y
+Moren min er alltid opptatt.	My mother is always busy.		y
+Jeg vil savne deg veldig hvis du forlater Japan.	I will badly miss you if you leave Japan.		y
+Denne larven vil bli en nydelig sommerfugl.	This caterpillar will become a gorgeous / lovely butterfly.		
+Picasso fortsatte å male bilder til han ble 91 år gammel.	Picasso continued painting pictures until he was 91 years old.		y
+Det ligger en flott park nær huset mitt.	There is a fine park near my house.		y
+Huset mitt sto i brann.	My house was on fire.		y
+Den øyen ble en gang i tiden styrt av Frankrike.	That island was governed by France at one time.		y
+Hva med litt kaffe?	How about some coffee?		y
+Skolens regler krever at elevene skal være iført skoleuniform.	The school's rules require that the students will wear school uniforms.		y
+Datamaskiner blir stadig forbedret.	Computers are constantly being improved.		y
+Jeg er lei av de lange talene hans.	I'm fed up with his long talks.		y
+Hvor langt er det til biblioteket herfra?	How far is it to the library from here?		y
+Hun stilte klokka fram 10 minutter.	She advanced her watch ten minutes.		y
+Har du strikket ferdig den genseren?	Have you finished knitting that sweater?		y
+Hun skalv av frykt.	She trembled with fear.		y
+Jim så seg til høyre og til venstre før han gikk over veien.	Jim looked right and left before he crossed the road.		y
+La sukkeret karamelliseres.	Let the sugar caramelise.		y
+Han vil gå tom for flaks før eller senere.	He will run out of luck sooner or later.		y
+Det skjedde ganske nylig.	It happened quite recently.		y
+Det er en pen utsikt herfra.	It is a nice view from here.		y
+Det lille av penger han tjente brukte han på bøker.	What little money he earned he spent on books.		y
+Jeg tror han var sint.	I think he was angry.		y
+Ken er like høy som Bill.	Ken is as tall as Bill.		y
+Kan jeg parkere bilen min her?	Can I park my car here?		y
+Jeg er ikke din dukke.	I'm not your doll.		y
+Vi har bodd her siden juli.	We've been living here since July.		y
+Han begikk selvmord.	He committed suicide.		y
+Hva i helvete er det du driver med?	What the hell are you doing?		y
+Jeg har mistet paraplyen min. Så jeg blir nødt til å kjøpe en ny.	I've lost my umbrella. So I must buy a new one.		y
+Kan du vise meg hva du har kjøpt?	Can you show me what you have bought?		y
+En gammel mann hvilte seg i skyggen av treet.	An old man rested in the shade of the tree.		y
+Jeg hadde vanskeligheter med å få tak i en drosje.	I had trouble getting a taxi.		y
+Han innrømmet at han stjal gullet.	He admitted that he stole the gold.		y
+Jeg tilbrakte hele dagen på stranden.	I spent the entire day on the beach.		y
+De fleste sveitsere kan snakke tre eller fire språk.	Most Swiss people can speak three or four languages.		y
+Det hadde snødd i en uke.	It had been snowing for a week.		y
+Piken er en sykesøster.	The girl is a nurse.		y
+Døren forble lukket.	The door remained closed.		y
+Han forlangte bedre betaling.	He demanded better pay.		y
+Opptredenen hans var prisverdig.	His performance was commendable.		y
+Arbeidsledigheten økte til fem prosent.	The unemployment rate rose to 5%.		y
+Du må være på stasjonen senest klokken fem.	You must be at the station at five o'clock at the latest.		y
+Nederland er et lite land.	The Netherlands is a small country.		y
+Hobbyen min er å samle gamle leker.	My hobby is to collect old toys.		y
+I land som Norge og Finland har de mye snø om vinteren.	In countries such as Norway and Finland, they have a lot of snow in winter.		y
+Ikke gjem deg under sengen.	Don't hide under the bed.		y
+Magesmertene er borte.	The stomach pains are gone.		y
+Er disse bananene modne?	Are these bananas ripe?		y
+Jeg angrer på å ha dratt dit.	I regret having gone there.		y
+Jeg spurte om hvorfor han er så trist.	I asked about why he is so sad.		y
+Hitler førte Tyskland inn i krig.	Hitler led Germany into war.		y
+Ha i honningen, sitronsaften, de ristede mandlene og de revne eplene.	Add the honey, the lemon juice, the chopped almonds, and the chopped apples.		y
+Jeg skreller selerien og potetene.	I'm peeling the celery and the potatoes.		y
+Skrell og finriv pepperroten.	Peel and finely chop the horseradish.		y
+Pisk eggehviten stiv.	Whip the egg-whites stiff.		y
+Brekk sjokoladen i små biter.	Break the chocolate into small pieces.		y
+Du er ikke innlogget.	You are not logged in.		y
+Det kan skje hvem som helst.	It can happen to anybody.		y
+Spørsmålet kan bare tolkes på en måte.	The question can only be interpreted in one way.		y
+Mange engelske ord stammer fra latin.	Many English words derive from Latin.		y
+Sitroner er sure.	Lemons are sour.		y
+Jeg har leid et rom i Paris for en måned.	I've rented a room in Paris for a month.		y
+De forente stater grenser til Canada.	The United States borders Canada.		y
+Jeg godtar det, men på en betingelse.	I'll accept it, but with one condition.		y
+De er begge kollegaer av meg.	They are both colleagues of mine.		y
+Brian har kjøpt en leppestift til Kate.	Brian has bought lipstick for Kate.		y
+Kan du ikke bli litt til?	Can't you stay a little longer?		y
+La oss stoppe her og fortsette i morgen.	Let's stop here and continue tomorrow.		y
+Mannen kjempet tappert, men ga seg tilslutt.	The man fought bravely but eventually gave up.		y
+Bare tanken på slanger gjør henne blek.	The very thought of snakes makes her turn pale.		y
+La oss diskutere problemet med dem.	Let's discuss the problem with them.		y
+Jeg må si deg opp hvis du kommer for sent så ofte.	I will have to fire you if you come too late so often.		y
+Hun skriver til sin sønn en gang i blant.	She writes to her son every now and then.		y
+Det vil ikke ta lang tid før han blir frisk.	It won't take a long time before he is healthy.		y
+Det er verdt et forsøk.	It is worth a try.		y
+Appelsiner har høyt vitamininnhold.	Oranges have a high vitamin content.		y
+Hun er veldig bekymret for helsen hans.	She is very concerned about his health.		y
+Han var glad for de gode nyhetene.	He was glad for the good news.		y
+Lånte jeg deg ikke penger i går?	Didn't I lend you some money yesterday?		y
+Jeg holdt pusten i spenning.	I held my breath in excitement.		y
+Jeg ba ham om å vente her.	I asked him to wait here.		y
+Han er den korteste av de to guttene.	He is the shorter of the two boys.		y
+Hun snakket for fort, slik at jeg ikke forstod.	She spoke too quickly, such that I didn't understand.		y
+Etterspørselen etter dette produktet har vokst raskere enn tilbudet i det siste.	The demand for this product has grown faster than the supply lately.		y
+Det er en mulighet for at mannen ble myrdet.	There's a possibility that the man was murdered.		y
+Det var denne gutten som knuste vindusruten.	It was this boy that broke the windowpane.		y
+Det er leggetid.	It's bedtime.		y
+Jeg mottok brevet ditt i går.	I received your letter yesterday.		y
+Han beskyldte mannen for stjeling.	He accused the man of stealing.		y
+Barn skal adlyde sine foreldre.	Children should obey their parents.		y
+I Japan er det veldig varmt om sommeren.	In Japan it is very hot in summer.		y
+Prøv å ha en positiv innstilling til alt.	Try to have a positive attitude about everything.		y
+Hun kjedet seg veldig under forelesningen.	She was very bored during the lecture.		y
+Han er omtrent på din alder.	He is about (approximately) your age.		y
+Min mor går til tannlegen annenhver dag for å få fikset tennene.	My mother goes to the dentist every other day to get her teeth fixed.		y
+Rødvin passer bra til kjøtt.	Red wine goes well with meat.		y
+Han ble plukket opp av et passerende skip.	He was picked up by a passing ship.		y
+Har du hørt fra ham i det siste?	Have you heard from him recently?		y
+Jeg visste ikke når jeg skulle slå av maskinen.	I didn't know when I should switch off the machine.		y
+Legg merke til hvordan spilleren bruker albuene.	Notice how the player uses his elbows.		y
+Jeg var veldig trøtt, så jeg la meg tidlig.	I was very tired, so I went to bed early.		y
+Disse perlene er ekte, ikke kunstige.	These pearls are genuine, not artificial.		y
+Hun er misunnelig på min suksess.	She is envious of my success.		y
+Hva gjør du for å få tiden til å gå?	What do you do to pass the time?		y
+Skolen ligner et fengsel.	The school looks like a prison.		y
+Han er alt annet enn ærlig.	He is anything but honest.		y
+Hvorfor har du utsatt å gå til tannlegen?	Why have you delayed going to the dentist?		y
+Folk flest tror datamaskiner aldri vil bli i stand til å tenke.	Most people think computers will never be able to think.		y
+Det er ulovlig å kopiere fra bøker uten forfatterens tillatelse.	It is illegal to copy from books without the author's permission.		y
+Ikke alle studentene var tilstede.	Not all the students were present.		y
+Det virker som om læreren var skuffet.	It seems the teacher was disappointed.		y
+Det er viktig å prøve å komme overens med folk fra andre land.	It is important to try to get along with people from foreign countries.		y
+Hvis du virkelig var interessert i hva jeg sier ville du ikke stirret ut av vinduet.	If you really were interested in what I'm saying you wouldn't be staring out of the window.		y
+Du må være forberedt på det verste.	You must be prepared for the worst.		y
+Han jobbet så hardt at han ødela helsen sin.	He worked so hard that he ruined his health.		y
+Hans barnslige latter er sjarmerende.	His childlike laugh is charming.		y
+Du skulle holdt det hemmelig.	You should keep it a secret.		y
+Han mente ikke å såre deg.	He did not mean to hurt your feelings.		y
+Gutten samlet en håndfull peanøtter og puttet dem i en liten boks.	The boy gathered a handful of peanuts and put them in a small box.		y
+Siden han var så trøtt, sovnet han fort.	Since he was so tired, he fell fast asleep.		y
+Han er alltid oppmerksom på sine barns oppførsel.	He always pays attention to his children's behavior.		y
+Læreren var veldig rettferdig da hun satte eksamenskarakterene.	The teacher was very fair when she set the exam grades.		y
+Mannen oppførte seg veldig merkelig.	The man behaved very strangely.		y
+Bare bli stående.	Just stay standing.		y
+Til min overraskelse avslo han tilbudet.	To my surprise, he refused my offer.		y
+Vi har nesten sluppet opp for penger.	We have almost run out of money.		y
+Jeg tjener 100 euro om dagen.	I earn 100 Euros a day.		y
+Roser blomstrer om våren.	Roses bloom in spring.		y
+Byen min er ikke som den pleide å være.	My town is not what it used to be.		y
+Du er gammel nok til å ta vare på deg selv.	You are old enough to take care of yourself.		y
+Tur-retur? Bare en vei.	Round trip? Only one-way.		y
+Han er sporløst forsvunnet.	He disappeared without a trace.		y
+Små barn er redde for å bli forlatt i mørket.	Small children are afraid of being left alone in the dark.		y
+Hun går sjelden ut.	She seldom goes out.		y
+Katteøyne er veldig følsomme for lys.	Cat's eyes are very sensitive to light.		y
+Han har lite erfaring i å undervise.	He has little experience in teaching.		y
+Ikke ta det personlig.	Don't take it personally.		y
+Det pleide å være en stor park her.	There used to be a large park here.		y
+Jeg var på nippet til å gi opp da jeg plutselig fant løsningen.	I was on the point of giving up when I suddenly found the solution.		y
+Det som ser lett ut ved første øyekast viser seg å være vanskelig.	What seems easy at first glance turns out to be difficult.		y
+Han er ikke det minste interessert i hva som skjer i verden.	He's not in the least interested in what is happening in the world.		y
+På dødsleiet ba han meg om å fortsette å skrive til deg.	On his deathbed he asked me to continue writing to you.		y
+Han ble tvunget til å signere kontrakten mot sin vilje.	He was forced to sign the contact against his will.		y
+Idrett har gjort ham til den han er.	Sport has made him what he is.		y
+Hver gang jeg prøvde, feilet jeg.	Each time I tried, I failed.		y
+Jo eldre du er, desto vanskeligere er det å lære et språk.	The older you are, the more difficult it is to learn a language.		y
+Hvor enn du går, vil du aldri finne et bedre sted enn ditt eget hjem.	Wherever you may go, you will not find a better place than your own home.		y
+Lommekalkulatorer er like billige å kjøpe som et par sokker, og like viktig for tusener av britiske skolebarn som blyant og viskelær.	Pocket calculators are as cheap to buy as a pair of socks, and as important for thousands of British schoolchildren as pencil and eraser.		y
+Du er uimotståelig.	You're irresistible.		y
+Det er ikke min skyld!	It's not my fault!		y
+Det skjeve tårn i Pisa er høyere enn kirken.	The Leaning Tower of Pisa is taller than the church.		y
+Ditt arbeid er langt fra tilfredsstillende.	Your work is far from satisfactory.		y
+Jeg må finne ut nøyaktig hva som gikk galt.	I need to find out exactly what went wrong.		y
+Denne brosjyren er gratis.	This booklet is free.		y
+Det er imot mine prinsipper.	It is against my principles.		y
+Ordboken inneholder cirka en halv million ord.	The dictionary contains about half a million words.		y
+Få mennesker lever til de er hundre.	Few people live til they are one hundred.		y
+Jeg er i et fryktelig dilemma.	I am in a terrible dilemma.		y
+Ta den du liker best, samme hvilken det er.	Take the one you like best, no matter which one it is.		y
+Jeg liker måten du går på.	I like the way you walk.		y
+Det er for mørkt til at jeg kan lese.	It is too dark for me to read.		y
+Hva ville verden vært uten kvinner?	What would the world be like without women?		y
